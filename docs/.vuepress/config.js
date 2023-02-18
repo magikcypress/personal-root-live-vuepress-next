@@ -1,6 +1,4 @@
 const { description } = require('../../package')
-//const { defaultTheme } = require('@vuepress/theme-default')
-//const { nprogressPlugin } = require('@vuepress/plugin-nprogress')
 
 module.exports = {
   /**
