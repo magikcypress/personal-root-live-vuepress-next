@@ -11,9 +11,7 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
+    "vuepress": "^2.0.0-beta.60",
     "markdown-it-html5-embed": "*"
-  },
-  "devDependencies": {
-    "vuepress": "^2.0.0-beta.50-pre.1"
   }
 }
