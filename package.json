@@ -1,0 +1,21 @@
+{
+  "name": "personal-root-live-vuepress",
+  "version": "1.0.0",
+  "description": "Personal Root live",
+  "main": "index.js",
+  "repository": "https://github.com/magikcypress/personal-root-live-vuepress-next",
+  "author": "magikcypress <cyp@rouquin.me>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/plugin-nprogress": "next",
+    "@vuepress/theme-default": "next",
+    "markdown-it-html5-embed": "*"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60"
+  }
+}
