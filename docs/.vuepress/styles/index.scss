@@ -4,7 +4,7 @@
  * ref：https://v1.vuepress.vuejs.org/config/#index-styl
  */
 
-body {
+ body {
   background-image: var(--c-bg-page)!important;
 }
 
@@ -25,11 +25,6 @@ body {
 
 .navbar .site-name {
   font-size: 2.65rem!important;
-}
-
-video {
-  width: 100%;
-  height: 400px;
 }
 
 @media (max-width: 719px) {
