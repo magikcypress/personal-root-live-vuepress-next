@@ -27,7 +27,16 @@
 .custom-container.danger {
     background: no-repeat 98%/15% url("/img/accolade.png")!important;
   }
-  
+
+.custom-container.danger code {
+    color: var(--c-danger-text-light);
+    background-color: var(--c-danger-bg-light);
+}
+
+.custom-container.warning code {
+    color: var(--c-warning-text-light);
+    background-color: var(--c-warning-bg-light);
+}
 
 // plugin-back-to-top
 .back-to-top {
