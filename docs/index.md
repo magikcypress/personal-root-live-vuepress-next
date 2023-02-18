@@ -25,7 +25,7 @@ Your browser does not support HTML5 streaming!
 
 ## Archive live
 
-### 02/18/2023 - [Mix One](Mix_One-cyp-02182023) 58:24 (sound only)
+### 02/18/2023 - [Mix One](/archives/Mix_One-cyp-02182023.mp3) 58:24 (sound only)
 
 The first and the last track are for the nostalgic ;)
 
