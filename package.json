@@ -11,8 +11,6 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "@vuepress/plugin-nprogress": "next",
-    "@vuepress/theme-default": "next",
     "markdown-it-html5-embed": "*"
   },
   "devDependencies": {
