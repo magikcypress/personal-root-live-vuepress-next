@@ -16,18 +16,18 @@ Your browser does not support HTML5 streaming!
 
 ## Archive live
 
-###( 02/19/2023 )
-####  Mix Two 01:11:20 (sound & live) Format [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
+### ( 02/19/2023 )
+####  Mix Two 01:11:20 (sound only) Format [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
 
 Old school Hip Hop session. I love US rap ;)
 
-::: tip 
-##### Track list
+::: tip Track list
 
 - Dj cam - Broadcasting live
 - Roots manuva - Juggle tings proper
 - Jurassic 5 - Thin line
 - Lil’ Kim - Who’s number one
+- Naneh Cherry - Outre Risque Locomotive
 - Mary j blige & mos def - Beautiful 
 - The roots (feat Erika’s badu) - « You got me »
 - Dj Krush - Danger of love
@@ -41,13 +41,12 @@ Old school Hip Hop session. I love US rap ;)
 - Dr. Dre (feat snoop doogy dog) - The next episode
 :::
 
-( 02/18/2023 )
-###  Mix One 58:24 (sound only) Format [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
+### ( 02/18/2023 )
+####  Mix One 58:24 (sound only) Format [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
 
 The first and last track are for the nostalgic ;)
 
-::: tip 
-#### Track list
+::: tip Track list
 
 - Stereo MC’s - The Mike Theodore Orchestra
 - Bonobo fabric - TSHA - sacre
