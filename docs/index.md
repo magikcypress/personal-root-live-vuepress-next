@@ -14,15 +14,6 @@ Your browser does not support HTML5 streaming!
 > Your browser does not support playing HTML5 video. 
 > [You can download file instead.](https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8)
 
-
-::: danger (Hey major!)
-I love music & I have been funding for a long time. 
-You can see my collection on my web root page (https://www.rouquin.me/). 
-If you want to email me to chat because you think 
-I'm streaming content that needs to be paid. Send me an email: cyp@duck.com
-:::
-
-
 ## Archive live
 
 ::: tip ( 02/18/2023 )
@@ -45,4 +36,10 @@ The first and last track are for the nostalgic ;)
 - Rudimental - these days (feat Jess Glynn, Macklemore & Dan Caplen)
 - Rudimental - Ghost (feat Hardy Caprio)
 - Fatboy slim - right here right now
+:::
+
+::: danger (Hey major!)
+I love music & I have been funding for a long time. 
+You can see my collection on my web root page (https://www.rouquin.me/). 
+If you want to chat with me because I broadcast content that must be paid. Email me: cyp@duck.com
 :::
