@@ -16,27 +16,7 @@ Your browser does not support HTML5 streaming!
 
 ## Archive live
 
-::: tip ( 02/18/2023 )
-###  Mix One 58:24 (sound only) Format [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
-
-The first and last track are for the nostalgic ;)
-
-#### Track list
-
-- Stereo MC’s - The Mike Theodore Orchestra
-- Bonobo fabric - TSHA - sacre
-- Royksopp - Me&youphoria
-- Sofia Kourtesis - La perla
-- Jamie XX - All Under One Roof Raving
-- TSHA - Giving Up (feat Mafro)
-- Major Lazer - Powerful 
-- Rudimental - Straight from the heart
-- Rudimental - These days (feat Jess Glynn, Macklemore & Dan Caplen)
-- Rudimental - Ghost (feat Hardy Caprio)
-- Fatboy slim - Right here right now
-:::
-
-::: tip ( 02/18/2023 )
+::: tip ( 02/19/2023 )
 ###  Mix One 01:11:20 (sound & live) Format [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
 
 Old school Hip Hop session. I love US rap ;)
@@ -58,6 +38,26 @@ Old school Hip Hop session. I love US rap ;)
 - Cypress hill - Superstar
 - Dj Vadim - The terroriste
 - Dr. Dre (feat snoop doogy dog) - The next episode
+:::
+
+::: tip ( 02/18/2023 )
+###  Mix One 58:24 (sound only) Format [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
+
+The first and last track are for the nostalgic ;)
+
+#### Track list
+
+- Stereo MC’s - The Mike Theodore Orchestra
+- Bonobo fabric - TSHA - sacre
+- Royksopp - Me&youphoria
+- Sofia Kourtesis - La perla
+- Jamie XX - All Under One Roof Raving
+- TSHA - Giving Up (feat Mafro)
+- Major Lazer - Powerful 
+- Rudimental - Straight from the heart
+- Rudimental - These days (feat Jess Glynn, Macklemore & Dan Caplen)
+- Rudimental - Ghost (feat Hardy Caprio)
+- Fatboy slim - Right here right now
 :::
 
 ::: danger (Hey major!)
