@@ -28,7 +28,7 @@ I'm streaming content that needs to be paid. Send me an email: cyp@duck.com
 ::: tip ( 02/18/2023 )
 ###  [Mix One](/archives/Mix_One-cyp-02182023.mp3) 58:24 (sound only)
 
-The first and the last track are for the nostalgic ;)
+The first and last track are for the nostalgic ;)
 
 #### Track list
 
