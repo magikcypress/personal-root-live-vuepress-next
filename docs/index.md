@@ -37,7 +37,7 @@ The first and last track are for the nostalgic ;)
 :::
 
 ::: tip ( 02/18/2023 )
-###  Mix One 01:11:20 (sound & live) Format [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x) [live](/archives-stream/live-02192023.mp4)
+###  Mix One 01:11:20 (sound & live) Format [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
 
 Old school Hip Hop session. I love US rap ;)
 
