@@ -15,16 +15,21 @@
     --c-text-accent: var(--c-brand);
     --c-tip: #4176f1;
     --c-tip-bg: #e4eaf4;
-    --c-tip-text: var(--c-brand);
+    --c-tip-text: #2c3e50;
     --c-tip-text-accent: var(--c-text-accent);
     --c-danger: #ffffff;
     --c-danger-bg: #f9f9f9;
-    --c-danger-title: #727272;
-    --c-danger-text: #727272;
+    --c-danger-title: #b5474d;
+    --c-danger-text: #b5474d;
     --c-danger-text-accent: var(--c-text-accent);
     --c-warning-text-light: #c1971c;
     --c-danger-text-light: #b5474d;
 
+}
+
+.custom-container.tip {
+    color: var(--c-tip-text);
+    background-color: var(--c-tip-bg);
 }
 
 .custom-container.danger {
@@ -75,8 +80,8 @@ html.dark {
     --c-tip-bg: var(--c-bg);
     --c-danger: #22272e;
     --c-danger-bg: #333a44;
-    --c-danger-title: #ffffff;
-    --c-danger-text: #ffffff;
+    --c-danger-title: #b5474d;
+    --c-danger-text: #b5474d;
     --c-danger-text-accent: var(--c-text-accent);
   
     // code blocks vars

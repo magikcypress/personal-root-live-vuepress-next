@@ -16,29 +16,33 @@ Your browser does not support HTML5 streaming!
 
 
 ::: danger (Hey major!)
-    > I love music & I have been funding for a long time. 
-    >  You can see my collection on my web root page (https://www.rouquin.me/). 
-    >  If you want to email me to chat because you think 
-    >  I'm streaming content that needs to be paid. Send me an email: cyp@duck.com
+I love music & I have been funding for a long time. 
+You can see my collection on my web root page (https://www.rouquin.me/). 
+If you want to email me to chat because you think 
+I'm streaming content that needs to be paid. Send me an email: cyp@duck.com
 :::
 
 
 ## Archive live
 
-### 02/18/2023 - [Mix One](/archives/Mix_One-cyp-02182023.mp3) 58:24 (sound only)
+::: tip ( 02/18/2023 )
+###  [Mix One](/archives/Mix_One-cyp-02182023.mp3) 58:24 (sound only)
 
 The first and the last track are for the nostalgic ;)
 
-::: warning (Track list) 
-    .  Stereo MC’s - The Mike Theodore Orchestra
-    .  Bonobo fabric - TSHA - sacre
-    .  Royksopp - Me&youphoria
-    .  Sofia Kourtesis - La perla
-    .  Jamie XX - All Under One Roof Raving
-    .  TSHA - Giving Up (feat Mafro)
-    .  Major Lazer - Powerful 
-    .  Rudimental - Straight from the heart
-    .  Rudimental - these days (feat Jess Glynn, Macklemore & Dan Caplen)
-    .  Rudimental - Ghost (feat Hardy Caprio)
-    .  Fatboy slim - right here right now
+#### Track list
+
+- Stereo MC’s - The Mike Theodore Orchestra
+- Bonobo fabric - TSHA - sacre
+- Stereo MC’s - The Mike Theodore Orchestra
+- Bonobo fabric - TSHA - sacre
+- Royksopp - Me&youphoria
+- Sofia Kourtesis - La perla
+- Jamie XX - All Under One Roof Raving
+- TSHA - Giving Up (feat Mafro)
+- Major Lazer - Powerful 
+- Rudimental - Straight from the heart
+- Rudimental - these days (feat Jess Glynn, Macklemore & Dan Caplen)
+- Rudimental - Ghost (feat Hardy Caprio)
+- Fatboy slim - right here right now
 :::
