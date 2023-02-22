@@ -3,7 +3,7 @@
 </template>
   
 <script>
-  import Hls from 'hls.js';
+
   
   export default {
     mounted() {
