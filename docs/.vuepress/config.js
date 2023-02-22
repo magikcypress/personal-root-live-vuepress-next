@@ -1,4 +1,5 @@
 const { description } = require('../../package')
+const { path } = require('@vuepress/utils')
 
 module.exports = {
   /**
@@ -28,9 +29,7 @@ module.exports = {
     ['link', { rel: "manifest", href: "/favicons/site.webmanifest"}],
     ['link', { rel: "shortcut icon", href: "/favicons/favicon.ico"}],
     ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
-    ['meta', { name: "robots", content: "noindex,nofollow"}],
-    ['script', { src: "//cdn.jsdelivr.net/npm/hls.js@latest"}],
-    ['script', { src: "/js/live.js"}]
+    ['meta', { name: "robots", content: "noindex,nofollow"}]
   ],
 
   locales: {
@@ -68,6 +67,12 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    'markdown-it-html5-embed'
+    'register-components',
+      {
+        components: {
+          componentsDir: path.resolve(__dirname, './components'),
+        },
+      }
   ]
 }
+

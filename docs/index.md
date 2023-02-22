@@ -6,10 +6,8 @@ sidebar: false
 search: false
 ---
 
-<video id="video" autoplay="true" controls="controls" poster="/img/cat.jpg">
-<source type="video/webm" src="https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8" />
-Your browser does not support HTML5 streaming!
-</video>
+<MyLive />
+
 
 > Your browser does not support playing HTML5 video. 
 > [You can download file instead.](https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8)

@@ -11,7 +11,8 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "vuepress": "2.0.0-beta.49",
-    "markdown-it-html5-embed": "*"
+    "@vuepress/plugin-register-components": "2.0.0-beta.49",
+    "hls.js": "^1.3.3",
+    "vuepress": "2.0.0-beta.49"
   }
 }
