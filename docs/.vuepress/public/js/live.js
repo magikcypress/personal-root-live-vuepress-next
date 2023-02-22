@@ -1,4 +1,5 @@
 if (Hls.isSupported()) {
+    console.log('Test HLS!');
     var video = document.getElementById('video');
     var hls = new Hls();
     hls.on(Hls.Events.MEDIA_ATTACHED, function () {
