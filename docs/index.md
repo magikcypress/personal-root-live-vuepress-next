@@ -59,7 +59,7 @@ The first and last track are for the nostalgic :wink:
 - Fatboy slim - Right here right now ```BMG, Skint```
 :::
 
-::: danger (Hey major!) :moneybag:
+::: danger (Hey major!) 💰
 I love music & I have been funding for a long time. 
 You can see my collection on my web root page (https://www.rouquin.me/). 
 If you want to chat with me because I broadcast content that must be paid. Email me: cyp@duck.com
