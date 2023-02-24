@@ -17,49 +17,49 @@ search: false
 ### ( 02/19/2023 )
 ####  Mix Two 01:11:20 (sound only) Format [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
 
-Old school Hip Hop session. I love US rap ;)
+Old school Hip Hop session ❤️ 
 
 ::: tip Track list
 
-- Dj cam - Broadcasting live
-- Roots manuva - Juggle tings proper
-- Jurassic 5 - Thin line
-- Lil’ Kim - Who’s number one
-- Naneh Cherry - Outre Risque Locomotive
-- Mary j blige & mos def - Beautiful 
-- The roots (feat Erika’s badu) - « You got me »
-- Dj Krush - Danger of love
-- Eminem - Hailie’s song
-- The Notorious B.I.G - Juicy
-- Snoop doggy dog - Doggy Dogg World
-- Dr. Dre (feat Eminem & Xzibit) - What’s the difference 
-- Xzibit (feat snoop doogy dog) - Losin’ your mind 
-- Cypress hill - Superstar
-- Dj Vadim - The terroriste
-- Dr. Dre (feat snoop doogy dog) - The next episode
+- Dj cam - Broadcasting live ```Inflamable```
+- Roots manuva - Juggle tings proper ```Big Dada Recordings```
+- Jurassic 5 - Thin line ```Interscope Records```
+- Lil’ Kim - Who’s number one ```Rhino Records```
+- Naneh Cherry - Outre Risque Locomotive ```Virgin```
+- Mary j blige & mos def - Beautiful ```Not On Label Mary J. Blige```
+- The Roots (feat Erika’s badu) - « You got me » ```Geffen Records```
+- Dj Krush - Danger of love ```Columbia```
+- Eminem - Hailie’s song ```Aftermath Entertainment, Shady Records, Web Entertainment```
+- The Notorious B.I.G - Juicy ```Bad Boy Entertainment```
+- Snoop doggy dog - Doggy Dogg World ```Death Row Records```
+- Dr. Dre (feat Eminem & Xzibit) - What’s the difference ```Aftermath Entertainment```
+- Xzibit (feat snoop doogy dog) - Losin’ your mind ```Open Bar Entertainment```
+- Cypress hill - Superstar ```Columbia, Soul Assassins```
+- Dj Vadim - The terroriste ```Ninja Tune```
+- Dr. Dre (feat snoop doogy dog) - The next episode ```Aftermath Entertainment```
 :::
 
 ### ( 02/18/2023 )
 ####  Mix One 58:24 (sound only) Format [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
 
-The first and last track are for the nostalgic ;)
+The first and last track are for the nostalgic :wink:
 
 ::: tip Track list
 
-- Stereo MC’s - The Mike Theodore Orchestra
-- Bonobo fabric - TSHA - sacre
-- Royksopp - Me&youphoria
-- Sofia Kourtesis - La perla
-- Jamie XX - All Under One Roof Raving
-- TSHA - Giving Up (feat Mafro)
-- Major Lazer - Powerful 
-- Rudimental - Straight from the heart
-- Rudimental - These days (feat Jess Glynn, Macklemore & Dan Caplen)
-- Rudimental - Ghost (feat Hardy Caprio)
-- Fatboy slim - Right here right now
+- Stereo MC’s - The Mike Theodore Orchestra ```!K7 Records```
+- Bonobo fabric - TSHA - sacre ```Fabric```
+- Royksopp - Me&youphoria ```Dog Triumph```
+- Sofia Kourtesis - La perla ```Technicolour```
+- Jamie XX - All Under One Roof Raving ```Young Turks```
+- TSHA (feat Mafro) - Giving Up ```Ninja Tune```
+- Major Lazer - Powerful ```Mad Decent```
+- Rudimental - Straight from the heart ```Asylum Records```
+- Rudimental (feat Jess Glynn, Macklemore & Dan Caplen) - These days ```Asylum Records```
+- Rudimental (feat Hardy Caprio) - Ghost ```Asylum Records```
+- Fatboy slim - Right here right now ```BMG, Skint```
 :::
 
-::: danger (Hey major!)
+::: danger (Hey major!) :moneybag:
 I love music & I have been funding for a long time. 
 You can see my collection on my web root page (https://www.rouquin.me/). 
 If you want to chat with me because I broadcast content that must be paid. Email me: cyp@duck.com
