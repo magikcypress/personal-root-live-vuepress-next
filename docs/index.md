@@ -6,6 +6,8 @@ sidebar: false
 search: false
 ---
 
+# `Live Offline`
+
 <MyLive />
 
 
@@ -21,14 +23,14 @@ Girl session 👸🏽
 🔊 Download [mp4](https://live.rouquin.me/archives/live-20230225.mp4) - [mp3](https://live.rouquin.me/archives/live-20230225.mp3) - [ogg](https://live.rouquin.me/archives/live-20230225.ogg)
 
 ::: tip Track list
-- Jorja Smith - Where did I go? ```Because Music```
-- Nilüfer Yanya - Stabilise ```ATO Records```
-- Rosalia (feat The Weeknd) - La Fama ```Columbia, Sony Music```
-- Sampa - Let me be great feat Angelique Kidjo ```Loma Vista```
-- Lil’ Kim - Queen bitch pt 2 (feat puff daddy) ```Rhino Records, Undeas Recording, LLC, Atlantic Recording Corporation```
-- Mos Def - Brown Sugar ```MCA Records```
-- Mary j Blige & Mos Def - Beautiful ```Not On Label Mary J. Blige```
-- Fugees - Manifest/outro ```Columbia, Sony Music, Ruffhouse Records```
+- Jorja Smith - Where did I go? `Because Music`
+- Nilüfer Yanya - Stabilise `ATO Records`
+- Rosalia (feat The Weeknd) - La Fama `Columbia, Sony Music`
+- Sampa - Let me be great feat Angelique Kidjo `Loma Vista`
+- Lil’ Kim - Queen bitch pt 2 (feat puff daddy) `Rhino Records, Undeas Recording, LLC, Atlantic Recording Corporation`
+- Mos Def - Brown Sugar `MCA Records`
+- Mary j Blige & Mos Def - Beautiful `Not On Label Mary J. Blige`
+- Fugees - Manifest/outro `Columbia, Sony Music, Ruffhouse Records`
 :::
 
 ### ( 02/19/2023 )
@@ -40,22 +42,22 @@ Old school Hip Hop session ❤️
 
 ::: tip Track list
 
-- Dj cam - Broadcasting live ```Inflamable```
-- Roots manuva - Juggle tings proper ```Big Dada Recordings```
-- Jurassic 5 - Thin line ```Interscope Records```
-- Lil’ Kim - Who’s number one ```Rhino Records```
-- Naneh Cherry - Outre Risque Locomotive ```Virgin```
-- Mary j blige & mos def - Beautiful ```Not On Label Mary J. Blige```
-- The Roots (feat Erika’s badu) - « You got me » ```Geffen Records```
-- Dj Krush - Danger of love ```Columbia```
-- Eminem - Hailie’s song ```Aftermath Entertainment, Shady Records, Web Entertainment```
-- The Notorious B.I.G - Juicy ```Bad Boy Entertainment```
-- Snoop doggy dog - Doggy Dogg World ```Death Row Records```
-- Dr. Dre (feat Eminem & Xzibit) - What’s the difference ```Aftermath Entertainment```
-- Xzibit (feat snoop doogy dog) - Losin’ your mind ```Open Bar Entertainment```
-- Cypress hill - Superstar ```Columbia, Soul Assassins```
-- Dj Vadim - The terroriste ```Ninja Tune```
-- Dr. Dre (feat snoop doogy dog) - The next episode ```Aftermath Entertainment```
+- Dj cam - Broadcasting live `Inflamable`
+- Roots manuva - Juggle tings proper `Big Dada Recordings`
+- Jurassic 5 - Thin line `Interscope Records`
+- Lil’ Kim - Who’s number one `Rhino Records`
+- Naneh Cherry - Outre Risque Locomotive `Virgin`
+- Mary j blige & mos def - Beautiful `Not On Label Mary J. Blige`
+- The Roots (feat Erika’s badu) - « You got me » `Geffen Records`
+- Dj Krush - Danger of love `Columbia`
+- Eminem - Hailie’s song `Aftermath Entertainment, Shady Records, Web Entertainment`
+- The Notorious B.I.G - Juicy `Bad Boy Entertainment`
+- Snoop doggy dog - Doggy Dogg World `Death Row Records`
+- Dr. Dre (feat Eminem & Xzibit) - What’s the difference `Aftermath Entertainment`
+- Xzibit (feat snoop doogy dog) - Losin’ your mind `Open Bar Entertainment`
+- Cypress hill - Superstar `Columbia, Soul Assassins`
+- Dj Vadim - The terroriste `Ninja Tune`
+- Dr. Dre (feat snoop doogy dog) - The next episode `Aftermath Entertainment`
 :::
 
 ### ( 02/18/2023 )
@@ -67,17 +69,17 @@ The first and last track are for the nostalgic :wink:
 
 ::: tip Track list
 
-- Stereo MC’s - The Mike Theodore Orchestra ```!K7 Records```
-- Bonobo fabric - TSHA - sacre ```Fabric```
-- Royksopp - Me&youphoria ```Dog Triumph```
-- Sofia Kourtesis - La perla ```Technicolour```
-- Jamie XX - All Under One Roof Raving ```Young Turks```
-- TSHA (feat Mafro) - Giving Up ```Ninja Tune```
-- Major Lazer - Powerful ```Mad Decent```
-- Rudimental - Straight from the heart ```Asylum Records```
-- Rudimental (feat Jess Glynn, Macklemore & Dan Caplen) - These days ```Asylum Records```
-- Rudimental (feat Hardy Caprio) - Ghost ```Asylum Records```
-- Fatboy slim - Right here right now ```BMG, Skint```
+- Stereo MC’s - The Mike Theodore Orchestra `!K7 Records`
+- Bonobo fabric - TSHA - sacre `Fabric`
+- Royksopp - Me&youphoria `Dog Triumph`
+- Sofia Kourtesis - La perla `Technicolour`
+- Jamie XX - All Under One Roof Raving `Young Turks`
+- TSHA (feat Mafro) - Giving Up `Ninja Tune`
+- Major Lazer - Powerful `Mad Decent`
+- Rudimental - Straight from the heart `Asylum Records`
+- Rudimental (feat Jess Glynn, Macklemore & Dan Caplen) - These days `Asylum Records`
+- Rudimental (feat Hardy Caprio) - Ghost `Asylum Records`
+- Fatboy slim - Right here right now `BMG, Skint`
 :::
 
 ::: danger (Hey major!) 💰
