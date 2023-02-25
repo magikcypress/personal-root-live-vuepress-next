@@ -15,11 +15,11 @@ search: false
 ## Archive live
 
 ### ( 02/26/2023 )
-####  Mix Three (girl session) 00:24:16 (live & sound) 
-
-🔊 Download [mp4](https://live.rouquin.me/archives/live-20230225.mp4) - [mp3](https://live.rouquin.me/archives/live-20230225.mp3) - [ogg](https://live.rouquin.me/archives/live-20230225.ogg)
+####  Mix Three 00:24:16 (live & sound)
 
 Girl session 👸🏽
+
+🔊 Download [mp4](https://live.rouquin.me/archives/live-20230225.mp4) - [mp3](https://live.rouquin.me/archives/live-20230225.mp3) - [ogg](https://live.rouquin.me/archives/live-20230225.ogg)
 
 ::: tip Track list
 - Jorja Smith - Where did I go? ```Because Music```
@@ -33,11 +33,11 @@ Girl session 👸🏽
 :::
 
 ### ( 02/19/2023 )
-####  Mix Two 01:11:20 (sound only) 
-
- 🔊 Download [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
+####  Mix Two 01:11:20 (sound only)
 
 Old school Hip Hop session ❤️ 
+
+ 🔊 Download [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
 
 ::: tip Track list
 
@@ -62,9 +62,9 @@ Old school Hip Hop session ❤️
 ### ( 02/18/2023 )
 ####  Mix One 58:24 (sound only) 
 
- 🔊 Download [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
-
 The first and last track are for the nostalgic :wink:
+
+ 🔊 Download [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
 
 ::: tip Track list
 
