@@ -32,10 +32,6 @@
     background-color: var(--c-tip-bg);
 }
 
-.custom-container.danger {
-    background: no-repeat 98%/15% url("/img/accolade.png")!important;
-  }
-
 .custom-container.danger code {
     color: var(--c-danger-text-light);
     background-color: var(--c-danger-bg-light);
@@ -87,11 +83,6 @@ html.dark {
   
     // code blocks vars
     --code-hl-bg-color: #363b46;
-}
-
-
-html.dark .custom-container.danger {
-    background: no-repeat 98%/15% url("/img/accolade-dark.png")!important;
 }
 
 label {
