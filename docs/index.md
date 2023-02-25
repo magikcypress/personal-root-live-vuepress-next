@@ -9,8 +9,7 @@ search: false
 <MyLive />
 
 
-> Your browser does not support playing HTML5 video. 
-> [You can download file instead.](https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8)
+> 📱 [Smartphone Access](https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8).
 
 ## Archive live
 
