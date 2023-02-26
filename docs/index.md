@@ -6,7 +6,7 @@ sidebar: false
 search: false
 ---
 
-# `Live Online` :fire:
+# `Live Offline`
 
 <MyLive />
 
