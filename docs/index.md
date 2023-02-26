@@ -23,6 +23,7 @@ Girl session 👸🏽
 🔊 Download [mp4](https://live.rouquin.me/archives/live-20230225.mp4) - [mp3](https://live.rouquin.me/archives/live-20230225.mp3) - [ogg](https://live.rouquin.me/archives/live-20230225.ogg)
 
 ::: tip Track list
+
 - Jorja Smith - Where did I go? `Because Music`
 - Nilüfer Yanya - Stabilise `ATO Records`
 - Rosalia (feat The Weeknd) - La Fama `Columbia, Sony Music`
@@ -81,6 +82,19 @@ The first and last track are for the nostalgic :wink:
 - Rudimental (feat Hardy Caprio) - Ghost `Asylum Records`
 - Fatboy slim - Right here right now `BMG, Skint`
 :::
+
+----
+
+### Special BigUp Record Store
+
+![Galette Records](/img/Galette-Records.jpg)
+
+**Special bigup** about [**Galette Records**](https://galette-records.com/)  
+All the vinyl selection is perfect, the boss sticks a post it on some vinyl with a perfect comment and it's super cool!
+
+70 Rue des 3 frères Barthélemy 13006 Marseille/France. 
+
+----
 
 ::: danger (Hey major!) 💰
 I love music & I have been funding for a long time. 
