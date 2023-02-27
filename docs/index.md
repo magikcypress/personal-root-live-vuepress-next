@@ -20,7 +20,9 @@ search: false
 
 Girl session 👸🏽
 
-🔊 Download [mp4](https://live.rouquin.me/archives/live-20230225.mp4) - [mp3](https://live.rouquin.me/archives/live-20230225.mp3) - [ogg](https://live.rouquin.me/archives/live-20230225.ogg)
+<MyAudio src="/archives/sample.mp3" />
+
+💿 Download [mp4](https://live.rouquin.me/archives/live-20230225.mp4) - [mp3](https://live.rouquin.me/archives/live-20230225.mp3) - [ogg](https://live.rouquin.me/archives/live-20230225.ogg)
 
 ::: tip Track list
 
@@ -39,7 +41,7 @@ Girl session 👸🏽
 
 Old school Hip Hop session ❤️ 
 
- 🔊 Download [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
+💿 Download [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
 
 ::: tip Track list
 
@@ -66,7 +68,7 @@ Old school Hip Hop session ❤️
 
 The first and last track are for the nostalgic :wink:
 
- 🔊 Download [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
+💿 Download [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
 
 ::: tip Track list
 
