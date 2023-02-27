@@ -15,4 +15,5 @@ export default {
   props: {
     source_src: String
   }
+}
 </script>
