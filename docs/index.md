@@ -21,7 +21,7 @@ Girl session 👸🏽
 
 <MyAudio source="/archives/MixThree.mp3" />
 
-💿 Download [mp4](/archives/MixThree.mp4){:target="_blank"} - [mp3](/archives/MixThree.mp3){:target="_blank"} - [ogg](/archives/MixThree.ogg){:target="_blank"}
+💿 Download [mp4](https://live.rouquin.me/archives/MixThree.mp4) - [mp3](https://live.rouquin.me/archives/MixThree.mp3) - [ogg](https://live.rouquin.me/archives/MixThree.ogg)
 
 ::: tip Track list
 
