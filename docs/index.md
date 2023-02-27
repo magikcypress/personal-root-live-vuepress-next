@@ -42,7 +42,7 @@ Old school Hip Hop session ❤️
 
 <MyAudio source="/archives/MixTwo.mp3" />
 
-💿 Download [mp3](/archives/MixTwo.mp3) [ogg](/archives/MixTwo.ogg)
+💿 Download [mp3](https://live.rouquin.me/archives/MixTwo.mp3) [ogg](https://live.rouquin.me/archives/MixTwo.ogg)
 
 ::: tip Track list
 
@@ -71,7 +71,7 @@ The first and last track are for the nostalgic :wink:
 
 <MyAudio source="/archives/MixOne.mp3" />
 
-💿 Download [mp3](/archives/MixOne.mp3) [ogg](/archives/MixOne.ogg)
+💿 Download [mp3](https://live.rouquin.me/archives/MixOne.mp3) [ogg](https://live.rouquin.me/archives/MixOne.ogg)
 
 ::: tip Track list
 
