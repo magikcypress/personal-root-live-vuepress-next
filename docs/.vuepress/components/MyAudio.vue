@@ -3,8 +3,8 @@
         <figcaption>🔊 Listen</figcaption>
         <audio
             controls
-            src="resolve_source_url(source_src)">
-                <a href="resolve_source_url(source_src)">
+            :src="source">
+                <a :href="source">
                     Download audio
                 </a>
         </audio>
@@ -14,12 +14,9 @@
 export default {
   name: 'MyAudio',
   props: {
-    source_src: String
-  },
-  methods: {
-    resolve_source_url: function (path) {
-      let audio = require.context('../archives/', false, /\.mp3$/)
-      return audio("./"+path)
+    source: {
+      type: String,
+      required: true
     }
   }
 }

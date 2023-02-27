@@ -19,7 +19,7 @@ search: false
 
 Girl session 👸🏽
 
-<MyAudio src="/archives/live-20230225.mp3" />
+<MyAudio source="/archives/live-20230225.mp3" />
 
 💿 Download [mp4](https://live.rouquin.me/archives/live-20230225.mp4) - [mp3](https://live.rouquin.me/archives/live-20230225.mp3) - [ogg](https://live.rouquin.me/archives/live-20230225.ogg)
 
