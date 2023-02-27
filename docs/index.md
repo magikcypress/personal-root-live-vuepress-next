@@ -14,14 +14,14 @@ search: false
 
 ## Archive live
 
-### ( 02/26/2023 )
+### ( 02/25/2023 )
 ####  Mix Three 00:24:16 (live & sound)
 
 Girl session 👸🏽
 
-<MyAudio source="/archives/live-20230225.mp3" />
+<MyAudio source="/archives/MixThree.mp3" />
 
-💿 Download [mp4](https://live.rouquin.me/archives/live-20230225.mp4) - [mp3](https://live.rouquin.me/archives/live-20230225.mp3) - [ogg](https://live.rouquin.me/archives/live-20230225.ogg)
+💿 Download [mp4](/archives/MixThree.mp4) - [mp3](/archives/MixThree.mp3) - [ogg](/archives/MixThree.ogg)
 
 ::: tip Track list
 
@@ -40,7 +40,9 @@ Girl session 👸🏽
 
 Old school Hip Hop session ❤️ 
 
-💿 Download [mp3](https://secure.rouquin.me/s/8Nrz866WjgozGpE) [ogg](https://secure.rouquin.me/s/bGkbepzMgnbTm3x)
+<MyAudio source="/archives/MixTwo.mp3" />
+
+💿 Download [mp3](/archives/MixTwo.mp3) [ogg](/archives/MixTwo.ogg)
 
 ::: tip Track list
 
@@ -67,7 +69,9 @@ Old school Hip Hop session ❤️
 
 The first and last track are for the nostalgic :wink:
 
-💿 Download [mp3](https://secure.rouquin.me/s/gr2jfc6A93WBjG3) [ogg](https://secure.rouquin.me/s/6kq7YHSPSjsz6RY)
+<MyAudio source="/archives/MixOne.mp3" />
+
+💿 Download [mp3](/archives/MixOne.mp3) [ogg](/archives/MixOne.ogg)
 
 ::: tip Track list
 
