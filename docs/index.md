@@ -12,6 +12,8 @@ search: false
 
 > 📱 [Smartphone Access](https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8).
 
+---
+
 ## Archive live
 
 ### ( 02/25/2023 )
@@ -88,7 +90,7 @@ The first and last track are for the nostalgic :wink:
 - Fatboy slim - Right here right now `BMG, Skint`
 :::
 
-----
+---
 
 ### Special BigUp Record Store
 
@@ -99,7 +101,7 @@ All the vinyl selection is perfect, the boss sticks a post it on some vinyl with
 
 70 Rue des 3 frères Barthélemy 13006 Marseille/France. 
 
-----
+---
 
 ::: danger (Hey major!) 💰
 I love music & I have been funding for a long time. 

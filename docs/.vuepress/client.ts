@@ -1,4 +1,5 @@
 import { defineClientConfig } from '@vuepress/client'
+import Footer from './components/Footer.vue'
 import MyLive from './components/MyLive.vue'
 import MyAudio from './components/MyAudio.vue'
 import LiveArchive from './components/LiveArchive.vue'
@@ -10,5 +11,5 @@ export default defineClientConfig({
     app.component('LiveArchive', LiveArchive)
   },
   setup() {},
-  rootComponents: [],
+  rootComponents: [Footer],
 })

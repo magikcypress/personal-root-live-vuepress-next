@@ -1,5 +1,6 @@
 const { description } = require('../../package')
 const { path } = require('@vuepress/utils')
+import { defaultTheme } from 'vuepress'
 
 module.exports = {
   /**
@@ -47,19 +48,14 @@ module.exports = {
    *
    * ref：https://v2.vuepress.vuejs.org/guide/theme.html
    */
-  themeConfig: {
+  theme: defaultTheme({
     repo: 'https://github.com/magikcypress/personal-root-live-vuepress-next/',
     editLink: true,
     docsDir: 'docs/',
     editLinkText: 'Edit on Github',
     lastUpdated: true,
-    search: true,
-    // default value is true. Set it to false to hide next page links on all pages
-    nextLinks: true,
-    // default value is true. Set it to false to hide prev page links on all pages
-    prevLinks: true,
     sidebar: false
-  },
+  }),
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
