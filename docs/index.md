@@ -23,7 +23,7 @@ Girl session 👸🏽
 
 <MyAudio source="/archives/MixThree.mp3" />
 
-💿 Download [mp4](https://live.rouquin.me/archives/MixThree.mp4) - [mp3](https://live.rouquin.me/archives/MixThree.mp3) - [ogg](https://live.rouquin.me/archives/MixThree.ogg)
+📻 Download [mp4](https://live.rouquin.me/archives/MixThree.mp4) - [mp3](https://live.rouquin.me/archives/MixThree.mp3) - [ogg](https://live.rouquin.me/archives/MixThree.ogg)
 
 ::: tip Track list
 
@@ -44,7 +44,7 @@ Old school Hip Hop session ❤️
 
 <MyAudio source="/archives/MixTwo.mp3" />
 
-💿 Download [mp3](https://live.rouquin.me/archives/MixTwo.mp3) [ogg](https://live.rouquin.me/archives/MixTwo.ogg)
+📻 Download [mp3](https://live.rouquin.me/archives/MixTwo.mp3) [ogg](https://live.rouquin.me/archives/MixTwo.ogg)
 
 ::: tip Track list
 
@@ -73,7 +73,7 @@ The first and last track are for the nostalgic :wink:
 
 <MyAudio source="/archives/MixOne.mp3" />
 
-💿 Download [mp3](https://live.rouquin.me/archives/MixOne.mp3) [ogg](https://live.rouquin.me/archives/MixOne.ogg)
+📻 Download [mp3](https://live.rouquin.me/archives/MixOne.mp3) [ogg](https://live.rouquin.me/archives/MixOne.ogg)
 
 ::: tip Track list
 
