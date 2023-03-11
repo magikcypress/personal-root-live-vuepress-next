@@ -34,7 +34,7 @@ Saturday night live with old school & new school 👓
 - Transglobal Underground - Chariots `Nation Records`
 - Tricky - You Don't `4th & Broadway, UMC` 
 - Thievery Corporation - The Glass and Bread Game `Primary Wave Music`  
-- Dj Shadow  - Stem / Long Stem `UMC, Mo Wax, Island Records` (45 RPM) 💥
+- Dj Shadow  - Stem / Long Stem `UMC, Mo Wax, Island Records` (45 rpm) 💥
 - Coldcut (Bonobo Remix) - Man in a garage   `Ninja Tune` 
 - Bonobo - Defender `OUTLIER`
 - Odesza (feat Bettye LaVette) - The last good bye `Foreign Family Collective, Ninja Tune`
