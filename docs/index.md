@@ -6,8 +6,6 @@ sidebar: false
 search: false
 ---
 
-# `Live Offline`
-
 <MyLive />
 
 > 📱 [Smartphone Access](https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8).
@@ -19,7 +17,7 @@ search: false
 ### ( 03/11/2023 )
 ####  Mix Four 01:27:17 (live & sound)
 
-Saturday night live with old school & new school 👓
+Friday night live with old school & new school 👓
 
 <my-audio url="https://live.rouquin.me/archives/MixFour.ogg" playerid="audio-player"></my-audio>
 

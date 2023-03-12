@@ -30,7 +30,9 @@ module.exports = {
     ['link', { rel: "manifest", href: "/favicons/site.webmanifest"}],
     ['link', { rel: "shortcut icon", href: "/favicons/favicon.ico"}],
     ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
-    ['meta', { name: "robots", content: "noindex,nofollow"}]
+    ['meta', { name: "robots", content: "noindex,nofollow"}],
+    ['link', { type: "txt/css", href: "https://vjs.zencdn.net/8.0.4/video-js.css"}]
+    
   ],
 
   locales: {
