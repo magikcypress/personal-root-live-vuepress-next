@@ -7,10 +7,8 @@ search: false
 ---
 
 <MyLive />
+<span class="archive-steam">03/11/2023 :: Mix Four</span>
 
-> 📱 [Smartphone Access](https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8).
-
----
 
 ## Archive live
 
