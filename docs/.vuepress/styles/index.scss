@@ -80,6 +80,11 @@ audio {
   background-color: var(--c-tip-bg)!important;
 }
 
+.track-hidden, track .active {
+  display: none;
+  visibility: hidden;
+}
+
 /* Text Track Styles */
 /* Overall track holder for both captions and subtitles */
 .video-js .vjs-text-track-display {
@@ -113,6 +118,39 @@ audio {
   width: auto!important;
   float: right;
   color: var(--c-tip-text)
+}
+
+.grid-container {
+  padding: 1rem;
+  height: 5rem;
+}
+
+.grid-item {
+  margin: 0 auto;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  padding-bottom: 1em;
+}
+
+.action-button, .telegram-response {
+  display: inline-block;
+  font-size: 1.2rem;
+  padding: 0.8rem 1.6rem;
+  transition: background-color var(--c-brand-light);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.action-button {
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 4px;
+  border-color: var(--c-brand-light);
+}
+
+.telegram-response {
+  border: none;
 }
 
 hr {

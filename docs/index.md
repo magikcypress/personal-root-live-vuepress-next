@@ -9,7 +9,6 @@ search: false
 <MyLive />
 <span class="archive-steam">03/11/2023 :: Mix Four</span>
 
-
 ## Archive live
 
 ### ( 03/11/2023 )
@@ -134,6 +133,8 @@ All the vinyl selection is perfect, the boss sticks a post it on some vinyl with
 
 ::: danger (Hey major!) 💰
 I love music & I have been funding for a long time. 
-You can see my collection on my web root page (https://www.rouquin.me/). 
+You can see my collection on my [web root page](https://www.rouquin.me/). 
 If you want to chat with me because I broadcast content that must be paid. Email me: cyp@duck.com
 :::
+
+<Button/>
