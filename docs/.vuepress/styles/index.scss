@@ -137,7 +137,6 @@ audio {
   display: inline-block;
   font-size: 1.2rem;
   padding: 0.8rem 1.6rem;
-  transition: background-color var(--c-brand-light);
   box-sizing: border-box;
   cursor: pointer;
 }
@@ -147,6 +146,7 @@ audio {
   border-style: solid;
   border-radius: 4px;
   border-color: var(--c-brand-light);
+  color: var(--c-text);
 }
 
 .telegram-response {

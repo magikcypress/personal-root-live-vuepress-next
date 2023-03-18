@@ -10,8 +10,30 @@ search: false
 
 ## Archive live
 
+### ( 03/18/2023 )
+#### Mix Five - `time: 00:40:28`
+
+Jah Jah mix with Russian inside 🇯🇲 🌿 🇷🇺
+
+<my-audio url="https://live.rouquin.me/archives/MixFive.ogg" playerid="audio-player"></my-audio>
+
+📻 Download [mp4](https://live.rouquin.me/archives/MixFive.mp4) - [mp3](https://live.rouquin.me/archives/MixFive.mp3) - [ogg](https://live.rouquin.me/archives/MixFive.ogg)
+
+::: tip Track list
+
+- Rockers Hi-Fi - Kids Loop `!K7 Records`
+- Mad Professor And The Robotiks Featuring Lee Scratch Perry - Soul Fire Dub `Ariwa`
+- DJ Vadim (feat Irah, Killa P, Lasai) - Bun Out Boris `Soulbeats Records`
+- Third World - Now That We Found Love `Cleopatra Records`
+- The Wailers - Burnin' And Lootin' `Island Records`
+- DJ Vadim & J Man (feat Lasai) - Good Old Days `X-Ray Production`
+- Dj Vadim - Yung N Powerful `Soulbeats Records`
+- Lee Scratch Perry - Egypt For My Ransom `Ariwa`
+- Third World - Who Gave You (Jah Rastafari) `CBS`
+:::
+
 ### ( 03/11/2023 )
-####  Mix Four 01:27:17 (live & sound)
+####  Mix Four - `time: 01:27:17`
 
 Friday night live with old school & new school 👓
 
@@ -43,7 +65,7 @@ Friday night live with old school & new school 👓
 :::
 
 ### ( 02/25/2023 )
-####  Mix Three 00:24:16 (live & sound)
+####  Mix Three - `time: 00:24:16`
 
 Girl session 👸🏽
 
@@ -64,7 +86,7 @@ Girl session 👸🏽
 :::
 
 ### ( 02/19/2023 )
-####  Mix Two 01:11:20 (sound only)
+####  Mix Two - `time: 01:11:20`
 
 Old school Hip Hop session ❤️ 
 
@@ -93,7 +115,7 @@ Old school Hip Hop session ❤️
 :::
 
 ### ( 02/18/2023 )
-####  Mix One 58:24 (sound only) 
+####  Mix One - `time: 58:24`  
 
 The first and last track are for the nostalgic :wink:
 
