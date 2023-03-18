@@ -2,6 +2,18 @@ const { description } = require('../../package')
 const { path } = require('@vuepress/utils')
 import { defaultTheme } from 'vuepress'
 
+import LogRocket from 'logrocket';
+LogRocket.init('ewzyfv/personal-live-website');
+
+// This is an example script - don't forget to change it!
+LogRocket.identify('123456', {
+  name: 'Cyp',
+  email: 'cyp@duck.com',
+
+  // Add your own custom user variables here, ie:
+  subscriptionType: 'pro'
+});
+
 module.exports = {
   /**
    * Ref：https://v2.vuepress.vuejs.org/guide/configuration.html

@@ -1,14 +1,14 @@
 <template>
 
     <h1><code>{{ currentStream }}</code></h1>
-    
+
     <!--video-player :options="videoOptions" /-->
     <video ref="videoPlayer" class="video-js" controls preload="auto" data-setup='{}'>
         <source src="https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8" type="application/x-mpegURL">
         <source src="https://live.rouquin.me/archives/MixFour.mp4" type="video/mp4">
-        <track kind="captions" src="./vtt/MixFour.vtt" srclang="en" label="English" ref="trackElement" default>
+        <track kind="captions" src="./vtt/MixFour.vtt" srclang="en" label="English" ref="trackElement">
     </video>
- 
+
 </template>
 
 <script>
@@ -29,6 +29,8 @@
             useNetworkInformationApi: false,
             currentStream: '',
             metadataTrack: '',
+            videoElement: '',
+            statusVideo: 1,
             streams: {
                 hls: ''
             },
@@ -38,7 +40,6 @@
                 controls: true,
                 sourceOrder: true,
                 textTracks: true,
-                //textTrackSettings: ['ok'],
                 textTrackDisplay: true,
                 html5: { 
                     hls: { withCredentials: false }, 
@@ -65,86 +66,60 @@
                         src: './archives/MixFour.vtt',
                         srclang: 'en',
                         label: 'English',
-                        mode: 'hidden'
+                        mode: 'showing'
+                    },
+                    {
+                        kind: 'caption',
+                        src: '',
+                        srclang: 'en',
+                        label: 'English',
+                        mode: 'disable'
                     }
                 ],
                 poster: '/img/cat.webp',
-                // controlBar: {
-                //     playToggle: true,
-                //     VolumePanel: true,
-                //     ChaptersButton : true,
-                //     DescriptionButton: true,
-                //     captionsButton: true,
-                //     AudioTrackButton: true,
-                //     LiveDisplay: true,
-                //     SubsCapsButton: true,
-                //     fullscreenToggle: true,
-                // }
             }
         };
     },
-    // watch: {
-    //     getLive() {
-
-    //     }
-    // },
-    // computed: {
-    //     OnLive() {
-    //         // const response = fetch(this.videoOptions.sources[0].src);
-
-    //         // return this.videoOptions.sources.length > 0 ? 'Yes' : 'No'
-    //     }
-    // },
     methods: {
-
+        // Display video if Offline or Online
+        goLive (statusVideo) {
+            return this.videoOptions.sources[statusVideo].src;
+        },
+        // Display track or not
+        diplayTracks(statusVideo) {
+            const tracks = this.videoOptions.tracks[statusVideo].src;
+            const video = document.getElementById("video");
+            
+            const hideTracks = function() {
+                // Oddly, there's no way to remove a track from a video, so hide them instead
+                for (i = 0; i < video.textTracks.length; i++) {
+                    if(statusVideo == 0) {
+                        video.textTracks[0].mode = "showing";
+                    } else {
+                        video.textTracks[0].mode = "hidden";
+                    }
+                }
+            }
+            return video;
+        }
     },
     async created() { 
 
-        // Get all text tracks for the current player.
-        // var tracks = this.player.textTracks();
-        // var metadataTrack;
-
-        // for (var i = 0; i < tracks.length; i++) {
-        //     var track = tracks[i];
-        //     console.log(track)
-        //     // Find the metadata track that's labeled "ads".
-        //     if (track.kind === 'metadata' && track.label === 'ads') {
-        //         track.mode = 'hidden';
-
-        //         // Store it for usage outside of the loop.
-        //         console.log(this.metadataTrack)
-        //         this.metadataTrack = track;
-        //     }
-        // }
-
-        // // Add a listener for the "cuechange" event and start ad playback.
-        // this.metadataTrack.addEventListener('cuechange', function() {
-        //     this.player.ads.startLinearAdMode();
-        // });
-        
         // GET request using fetch with async/await
         const response = await fetch(this.videoOptions.sources[0].src);
 
         if(response.status == 404) {
             this.currentStream = 'Live Offline';
+            const status = this.statusVideo = 0;
 
-            // const track = this.$refs.trackElement;
-            // console.log(track)
-            // const element = document.querySelector('.vjs-text-track-cue')
-            
-            // element.classList.add('track-hidden');
-
-            // if (track.track.kind === 'captions' && track.track.language === 'en') {
-            //     //element.classList.add('track-hidden');
-            //     element.style.display = 'none'
-            // }
-            //console.log(element)
-
-            return this.videoOptions.sources[1].src;
+            this.goLive(status);
+            this.diplayTracks(status);
         } else {
-            this.currentStream = 'Live Online 🔥';
+            this.currentStream = 'Live Online 🔥';  
+            const status = this.statusVideo = 1; 
 
-            return this.videoOptions.sources[0].src;
+            this.goLive(status);
+            this.diplayTracks(status);
         }
         
     },
