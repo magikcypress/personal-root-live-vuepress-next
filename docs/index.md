@@ -7,7 +7,6 @@ search: false
 ---
 
 <MyLive />
-<span class="archive-steam">03/11/2023 :: Mix Four</span>
 
 ## Archive live
 

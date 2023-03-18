@@ -8,7 +8,7 @@
         <source src="https://live.rouquin.me/archives/MixFour.mp4" type="video/mp4">
         <track kind="captions" src="./vtt/MixFour.vtt" srclang="en" label="English" ref="trackElement">
     </video>
-
+    <span class="archive-steam" v-if="offline">03/11/2023 :: Mix Four</span>
 </template>
 
 <script>
@@ -31,6 +31,7 @@
             metadataTrack: '',
             videoElement: '',
             statusVideo: 1,
+            offline: true,
             streams: {
                 hls: ''
             },
@@ -111,12 +112,14 @@
         if(response.status == 404) {
             this.currentStream = 'Live Offline';
             const status = this.statusVideo = 0;
+            this.offline = true;
 
             this.goLive(status);
             this.diplayTracks(status);
         } else {
             this.currentStream = 'Live Online 🔥';  
             const status = this.statusVideo = 1; 
+            this.offline = false;
 
             this.goLive(status);
             this.diplayTracks(status);
