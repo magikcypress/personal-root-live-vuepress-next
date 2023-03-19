@@ -39,7 +39,11 @@ Friday night live with old school & new school 👓
 
 <my-audio url="https://live.rouquin.me/archives/MixFour.ogg" playerid="audio-player"></my-audio>
 
-📻 Download [mp4](https://live.rouquin.me/archives/MixFour.mp4) - [mp3](https://live.rouquin.me/archives/MixFour.mp3) - [ogg](https://live.rouquin.me/archives/MixFour.ogg)
+::: details Click to see this live 🚭
+<my-live-archives url="https://live.rouquin.me/archives/MixFour.mp4" urltrack="./vtt/MixFour.vtt" datenamemix="03/11/2023 :: Mix Four"></my-live-archives>
+:::
+
+📻 Download [mp3](https://live.rouquin.me/archives/MixFour.mp3) - [ogg](https://live.rouquin.me/archives/MixFour.ogg)
 
 ::: tip Track list
 

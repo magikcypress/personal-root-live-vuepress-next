@@ -64,7 +64,7 @@
                 tracks: [
                     {
                         kind: 'caption',
-                        src: './archives/MixFive.vtt',
+                        src: './vtt/MixFive.vtt',
                         srclang: 'en',
                         label: 'English',
                         mode: 'showing'
