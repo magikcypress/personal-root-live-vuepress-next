@@ -66,11 +66,16 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     'register-components',
-      {
-        components: {
-          componentsDir: path.resolve(__dirname, './components'),
-        },
-      }
+    {
+      components: {
+        componentsDir: path.resolve(__dirname, './components'),
+      },
+    },
+    'umami', 
+    {
+      trackerUrl: 'https://jasper-shrimp.pikapod.net', 
+      siteId: '66b06a36-3963-4ac0-8501-e7d66b4e61fa'
+    }
   ]
 }
 
