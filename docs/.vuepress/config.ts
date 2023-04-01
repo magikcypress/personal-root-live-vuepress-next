@@ -71,11 +71,7 @@ module.exports = {
         componentsDir: path.resolve(__dirname, './components'),
       },
     },
-    'umami', 
-    {
-      trackerUrl: 'https://jasper-shrimp.pikapod.net', 
-      siteId: '66b06a36-3963-4ac0-8501-e7d66b4e61fa'
-    }
+    ['umami', {trackerUrl: 'https://jasper-shrimp.pikapod.net', siteId: '66b06a36-3963-4ac0-8501-e7d66b4e61fa'}]
   ]
 }
 

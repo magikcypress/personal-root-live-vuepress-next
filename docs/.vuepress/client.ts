@@ -17,5 +17,5 @@ export default defineClientConfig({
     app.component('MyLiveArchives', MyLiveArchives)
   },
   setup() {},
-  rootComponents: [Footer],
+  rootComponents: [Footer]
 })
