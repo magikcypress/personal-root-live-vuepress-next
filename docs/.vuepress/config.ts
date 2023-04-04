@@ -31,8 +31,8 @@ module.exports = {
     ['link', { rel: "shortcut icon", href: "/favicons/favicon.ico"}],
     ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
     ['meta', { name: "robots", content: "noindex,nofollow"}],
-    ['link', { type: "txt/css", href: "https://vjs.zencdn.net/8.0.4/video-js.css"}]
-    
+    ['link', { type: "txt/css", href: "https://vjs.zencdn.net/8.0.4/video-js.css"}],
+    ['script', { src: "https://jasper-shrimp.pikapod.net/umami.js", 'data-website-id': "66b06a36-3963-4ac0-8501-e7d66b4e61fa", async: true, defer: true }]
   ],
 
   locales: {
@@ -57,21 +57,5 @@ module.exports = {
     editLinkText: 'Edit on Github',
     lastUpdated: true,
     sidebar: false
-  }),
-
-  /**
-   * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
-   */
-  plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
-    'register-components',
-    {
-      components: {
-        componentsDir: path.resolve(__dirname, './components'),
-      },
-    },
-    ['umami', {trackerUrl: 'https://jasper-shrimp.pikapod.net', siteId: '66b06a36-3963-4ac0-8501-e7d66b4e61fa'}]
-  ]
+  })
 }
-
