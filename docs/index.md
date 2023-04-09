@@ -10,14 +10,43 @@ search: false
 
 ## Archive live
 
+### ( 04/09/2023 )
+#### Mix Six - `time: 00:52:26`
+
+Electronic Down tempo via Up tempo 👇 ☝️
+
+<my-audio url="https://live.rouquin.me/archives/MixSix.ogg" playerid="audio-player"></my-audio>
+
+📻 Download [mp4](https://live.rouquin.me/archives/MixSix.mp4) - [mp3](https://live.rouquin.me/archives/MixSix.mp3) - [ogg](https://live.rouquin.me/archives/MixSix.ogg)
+
+::: tip Track list
+
+- Unknown Artist - Fallen `As We Enter – 2`
+- TSHA - Giving Up `Ninja Tune`
+- Lost frequencies - Send her my love `Music On Vinyl, Armada`
+- Kungs - Lipstick `Island Records, Def Jam Recordings`
+- Fakear - Olele `Nowadays Records`
+- Moderat - Neon Rats `Monkeytown Records` (Sounds experimental low volume excuse!)
+- Scott Grooves Feat. Parliament & Funkadelic–	Mothership Reconnection (Daft Punk Remix) `Wagram Music`
+- Revolution 909 - Roger Sanchez & Junior Sanchez Remix - "Homework" Remixes `Soma Quality Recordings `
+- Bicep - Sundial `Ninja Tune`
+- Tribe 606 - Aloe Vera (Dermo Tropical Mix) `Square Records`
+- The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix `	DiKi Records`
+- Digitalism - Falling `!K7 Records`
+:::
+
 ### ( 03/18/2023 )
 #### Mix Five - `time: 00:40:28`
 
-Jah Jah mix with Russian inside 🇯🇲 🌿 🇷🇺
+Jamaican mix with Russian inside 🇯🇲 🌿 🇷🇺
 
 <my-audio url="https://live.rouquin.me/archives/MixFive.ogg" playerid="audio-player"></my-audio>
 
-📻 Download [mp4](https://live.rouquin.me/archives/MixFive.mp4) - [mp3](https://live.rouquin.me/archives/MixFive.mp3) - [ogg](https://live.rouquin.me/archives/MixFive.ogg)
+::: details Click to see this live 🚭
+<my-live-archives url="https://live.rouquin.me/archives/MixFive.mp4" urltrack="./vtt/MixFive.vtt" datenamemix="03/18/2023 :: Mix Five"></my-live-archives>
+:::
+
+📻 Download [mp3](https://live.rouquin.me/archives/MixFive.mp3) - [ogg](https://live.rouquin.me/archives/MixFive.ogg)
 
 ::: tip Track list
 

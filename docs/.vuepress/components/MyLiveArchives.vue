@@ -45,13 +45,13 @@
                 sources: [
                     {
                         type: 'video/mp4',
-                        src: 'https://live.rouquin.me/archives/MixFour.mp4'
+                        src: 'https://live.rouquin.me/archives/MixSix.mp4'
                     }
                 ],
                 tracks: [
                     {
                         kind: 'caption',
-                        src: './vtt/MixFour.vtt',
+                        src: './vtt/MixSix.vtt',
                         srclang: 'en',
                         label: 'English',
                         mode: 'showing'

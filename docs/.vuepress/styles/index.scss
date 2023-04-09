@@ -118,7 +118,13 @@ track,
   text-align: right!important;
   width: auto!important;
   float: right;
-  color: var(--c-tip-text)
+  color: var(--c-brand-light);
+  border: solid 1px var(--c-black);
+  border-bottom-right-radius: 10px 10px;
+  border-bottom-left-radius: 10px 10px;
+  background-color: var(--c-black);;
+  padding: 0 .3em .3em .3em;
+  opacity: .6;
 }
 
 .grid-container {

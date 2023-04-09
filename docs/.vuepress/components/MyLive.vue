@@ -5,10 +5,10 @@
     <!--video-player :options="videoOptions" /-->
     <video ref="videoPlayer" class="video-js" controls preload="auto" data-setup='{}'>
         <source src="https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8" type="application/x-mpegURL">
-        <source src="https://live.rouquin.me/archives/MixFive.mp4" type="video/mp4">
-        <track kind="captions" src="./vtt/MixFive.vtt" srclang="en" label="English" ref="trackElement">
+        <source src="https://live.rouquin.me/archives/MixSix.mp4" type="video/mp4">
+        <track kind="captions" src="./vtt/MixSix.vtt" srclang="en" label="English" ref="trackElement">
     </video>
-    <span class="archive-steam" v-if="offline">03/18/2023 :: Mix Five</span>
+    <span class="archive-steam" v-if="offline">04/09/2023 :: Mix Six</span>
 </template>
 
 <script>
@@ -58,13 +58,13 @@
                     },
                     {
                         type: 'video/mp4',
-                        src: 'https://live.rouquin.me/archives/MixFive.mp4'
+                        src: 'https://live.rouquin.me/archives/MixSix.mp4'
                     }
                 ],
                 tracks: [
                     {
                         kind: 'caption',
-                        src: './vtt/MixFive.vtt',
+                        src: './vtt/MixSix.vtt',
                         srclang: 'en',
                         label: 'English',
                         mode: 'showing'
@@ -78,6 +78,12 @@
                     }
                 ],
                 poster: '/img/cat.webp',
+                // Message bot Telegram
+                message: "Hey bro! Stop your activities! There's a new live starting now 💡 Go to live.rouquin.me!",
+                messageSend: '',
+                isLoading: null,
+                botkey: botkey,
+                chatid: chatid,
             }
         };
     },
@@ -102,7 +108,32 @@
                 }
             }
             return video;
-        }
+        },
+        async sendMessageBot() {
+            const requestOptions = {
+                method: "POST"
+            };
+            console.log(this.botkey)
+            const response = await fetch(`https://api.telegram.org/bot${this.botkey}/sendMessage?chat_id=${this.chatid}&text=${this.message}`, requestOptions)
+            .then( function( response ){
+                if( !response.ok ){
+                    this.fetchError = response.status;
+                    this.messageSend = "Error Bro! ☠️";
+                    this.dead = false;
+                    this.ok = true;
+                }else{
+                    response.json().then( function( data ){
+                        this.fetchResponse = data;
+                        this.messageSend = this.message;
+                        this.dead = false;
+                        this.ok = true;
+                        setTimeout(() => {
+                            this.isLoading = false
+                        }, 1000)
+                    }.bind(this));
+                }
+            }.bind(this));
+        }        
     },
     async created() { 
 
@@ -123,6 +154,7 @@
 
             this.goLive(status);
             this.diplayTracks(status);
+            //this.sendMessageBot();
         }
         
     },
