@@ -104,7 +104,11 @@ Girl session 👸🏽
 
 <my-audio url="https://live.rouquin.me/archives/MixThree.ogg" playerid="audio-player"></my-audio>
 
-📻 Download [mp4](https://live.rouquin.me/archives/MixThree.mp4) - [mp3](https://live.rouquin.me/archives/MixThree.mp3) - [ogg](https://live.rouquin.me/archives/MixThree.ogg)
+::: details Click to see this live 🚭
+<my-live-archives url="https://live.rouquin.me/archives/MixThree.mp4" urltrack="./vtt/MixFive.vtt" datenamemix="02/25/2023 :: Mix Three"></my-live-archives>
+:::
+
+📻 Download [mp3](https://live.rouquin.me/archives/MixThree.mp3) - [ogg](https://live.rouquin.me/archives/MixThree.ogg)
 
 ::: tip Track list
 
