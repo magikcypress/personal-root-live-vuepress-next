@@ -82,8 +82,8 @@
                 message: "Hey bro! Stop your activities! There's a new live starting now 💡 Go to live.rouquin.me!",
                 messageSend: '',
                 isLoading: null,
-                botkey: botkey,
-                chatid: chatid,
+                // botkey: botkey,
+                // chatid: chatid,
             }
         };
     },
@@ -109,31 +109,31 @@
             }
             return video;
         },
-        async sendMessageBot() {
-            const requestOptions = {
-                method: "POST"
-            };
-            console.log(this.botkey)
-            const response = await fetch(`https://api.telegram.org/bot${this.botkey}/sendMessage?chat_id=${this.chatid}&text=${this.message}`, requestOptions)
-            .then( function( response ){
-                if( !response.ok ){
-                    this.fetchError = response.status;
-                    this.messageSend = "Error Bro! ☠️";
-                    this.dead = false;
-                    this.ok = true;
-                }else{
-                    response.json().then( function( data ){
-                        this.fetchResponse = data;
-                        this.messageSend = this.message;
-                        this.dead = false;
-                        this.ok = true;
-                        setTimeout(() => {
-                            this.isLoading = false
-                        }, 1000)
-                    }.bind(this));
-                }
-            }.bind(this));
-        }        
+        // async sendMessageBot() {
+        //     const requestOptions = {
+        //         method: "POST"
+        //     };
+        //     console.log(this.botkey)
+        //     const response = await fetch(`https://api.telegram.org/bot${this.botkey}/sendMessage?chat_id=${this.chatid}&text=${this.message}`, requestOptions)
+        //     .then( function( response ){
+        //         if( !response.ok ){
+        //             this.fetchError = response.status;
+        //             this.messageSend = "Error Bro! ☠️";
+        //             this.dead = false;
+        //             this.ok = true;
+        //         }else{
+        //             response.json().then( function( data ){
+        //                 this.fetchResponse = data;
+        //                 this.messageSend = this.message;
+        //                 this.dead = false;
+        //                 this.ok = true;
+        //                 setTimeout(() => {
+        //                     this.isLoading = false
+        //                 }, 1000)
+        //             }.bind(this));
+        //         }
+        //     }.bind(this));
+        // }        
     },
     async created() { 
 
