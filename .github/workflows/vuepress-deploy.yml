@@ -24,6 +24,14 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-yarn-
 
+    # Create env file for Telegram bot about hatid and botkey 
+    - name: 'Create env file'
+      run: |
+        touch .env
+        echo __CHATID__=${{ secrets.CHATID }}  >> .env
+        echo __BOTKEY__="${{ secrets.BOTKEY }}"  >> .env
+        cat .env          
+
     # install dependencies if the cache did not hit
     - name: Install dependencies
       run: npm install

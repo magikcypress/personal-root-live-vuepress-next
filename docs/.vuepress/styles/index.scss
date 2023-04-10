@@ -127,6 +127,13 @@ track,
   opacity: .6;
 }
 
+.bot-telegram {
+  margin-top: 3em;
+  padding: .5em;
+  color: var(--c-tip-text);
+  background-color: var(--c-tip-bg);
+}
+
 .grid-container {
   display: flex;
   padding: 1rem;

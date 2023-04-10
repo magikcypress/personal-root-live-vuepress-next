@@ -66,7 +66,6 @@
         diplayTracks() {
             const video = document.getElementById("video");
             
-
             return video;
         }
     },
