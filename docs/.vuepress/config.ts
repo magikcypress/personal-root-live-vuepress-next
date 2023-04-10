@@ -63,7 +63,7 @@ module.exports = {
   }),
 
   define: {
-    chatid: process.env.CHATID,
-    botkey: process.env.BOTKEY,
+      chatid: process.env.CHATID,
+      botkey: process.env.BOTKEY
   },
 }
