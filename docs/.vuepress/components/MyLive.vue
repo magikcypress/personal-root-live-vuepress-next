@@ -11,7 +11,7 @@
     <span class="archive-steam" v-if="offline">04/09/2023 :: Mix Six</span>
 
     <div class="bot-telegram">
-        <a href="https://t.me/rouquin_live_bot" title="Sign up on Telegram">Sign up on Telegram</a> to receive messages telling you that I'm going to be online.
+        <a href="https://t.me/liverouquin" title="Sign up on Telegram">Sign up on Telegram</a> to receive messages telling you that I'm going to be online.
     </div>
 </template>
 
