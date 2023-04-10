@@ -83,9 +83,7 @@
                 ],
                 poster: '/img/cat.webp',
                 // Send alert Online bot Telegram
-                isLoading: null,
-                botkey: botkey,
-                chatid: chatid,
+                isLoading: null
             }
         };
     },
@@ -110,31 +108,7 @@
                 }
             }
             return video;
-        },
-        async sendMessageBot(botkey, chatid) {
-            const requestOptions = {
-                method: "POST"
-            };
-            const response = await fetch(`https://api.telegram.org/bot${botkey}/sendMessage?chat_id=${chatid}&text="Hey bro! Stop your activities! There's a new live starting now 💡 Go to https://live.rouquin.me!"`, requestOptions)
-            .then( function( response ){
-                if( !response.ok ){
-                    this.fetchError = response.status;
-                    this.messageSend = "Error Bro! ☠️";
-                    this.dead = false;
-                    this.ok = true;
-                }else{
-                    response.json().then( function( data ){
-                        this.fetchResponse = data;
-                        this.messageSend = this.message;
-                        this.dead = false;
-                        this.ok = true;
-                        setTimeout(() => {
-                            this.isLoading = false
-                        }, 1000)
-                    }.bind(this));
-                }
-            }.bind(this));
-        }        
+        }    
     },
     async created() { 
 
@@ -162,13 +136,6 @@
         const element = this.$refs.trackElement
     },
     async mounted() {
-
-        // GET request using fetch with async/await
-        const response = await fetch(this.videoOptions.sources[0].src);
-        console.log(this.message)
-        if(response.status !== 404) {
-            this.sendMessageBot(botkey, chatid);
-        }
 
         this.player = videojs(
             this.$refs.videoPlayer,

@@ -1,9 +1,6 @@
 const { description } = require('../../package')
 const { path } = require('@vuepress/utils')
 import { defaultTheme } from 'vuepress'
-import * as dotenv from 'dotenv'
-
-dotenv.config()
 
 module.exports = {
   /**
@@ -60,10 +57,6 @@ module.exports = {
     editLinkText: 'Edit on Github',
     lastUpdated: true,
     sidebar: false
-  }),
+  })
 
-  define: {
-      chatid: process.env.CHATID,
-      botkey: process.env.BOTKEY
-  },
 }
