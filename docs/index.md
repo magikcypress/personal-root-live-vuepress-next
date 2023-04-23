@@ -8,8 +8,6 @@ search: false
 
 <MyLive />
 
-## Archive live
-
 ### ( 04/22/2023 )
 #### Mix Seven - `time: 01:01:17`
 
@@ -38,174 +36,15 @@ Electronic Up tempo via Down tempo ☝️ 👇
 - Swedish House Mafia - Another Minute `Republic Records`
 :::
 
-### ( 04/09/2023 )
-#### Mix Six - `time: 00:52:26`
+## Archive live
 
-Electronic Down tempo via Up tempo 👇 ☝️
-
-<my-audio url="https://live.rouquin.me/archives/MixSix.ogg" playerid="audio-player"></my-audio>
-
-::: details Click to see this live 🚭
-<my-live-archives url="https://live.rouquin.me/archives/MixSix.mp4" urltrack="./vtt/MixSix.vtt" datenamemix="03/09/2023 :: Mix Six"></my-live-archives>
-:::
-
-📻 Download [mp4](https://live.rouquin.me/archives/MixSix.mp4) - [mp3](https://live.rouquin.me/archives/MixSix.mp3) - [ogg](https://live.rouquin.me/archives/MixSix.ogg)
-
-::: tip Track list
-
-- Unknown Artist - Fallen `As We Enter – 2`
-- TSHA - Giving Up `Ninja Tune`
-- Lost frequencies - Send her my love `Music On Vinyl, Armada`
-- Kungs - Lipstick `Island Records, Def Jam Recordings`
-- Fakear - Olele `Nowadays Records`
-- Moderat - Neon Rats `Monkeytown Records` (Sounds experimental low volume excuse!)
-- Scott Grooves (feat. Parliament & Funkadelic) –	Mothership Reconnection (Daft Punk Remix) `Wagram Music`
-- Revolution 909 - Roger Sanchez & Junior Sanchez Remix - "Homework" Remixes `Soma Quality Recordings `
-- Bicep - Sundial `Ninja Tune`
-- Tribe 606 - Aloe Vera (Dermo Tropical Mix) `Square Records`
-- The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix `	DiKi Records`
-- Digitalism - Falling `!K7 Records`
-:::
-
-### ( 03/18/2023 )
-#### Mix Five - `time: 00:40:28`
-
-Jamaican mix with Russian inside 🇯🇲 🌿 🇷🇺
-
-<my-audio url="https://live.rouquin.me/archives/MixFive.ogg" playerid="audio-player"></my-audio>
-
-::: details Click to see this live 🚭
-<my-live-archives url="https://live.rouquin.me/archives/MixFive.mp4" urltrack="./vtt/MixFive.vtt" datenamemix="03/18/2023 :: Mix Five"></my-live-archives>
-:::
-
-📻 Download [mp3](https://live.rouquin.me/archives/MixFive.mp3) - [ogg](https://live.rouquin.me/archives/MixFive.ogg)
-
-::: tip Track list
-
-- Rockers Hi-Fi - Kids Loop `!K7 Records`
-- Mad Professor And The Robotiks (feat. Lee Scratch Perry) - Soul Fire Dub `Ariwa`
-- DJ Vadim (feat. Irah, Killa P, Lasai) - Bun Out Boris `Soulbeats Records`
-- Third World - Now That We Found Love `Cleopatra Records`
-- The Wailers - Burnin' And Lootin' `Island Records`
-- DJ Vadim & J Man (feat. Lasai) - Good Old Days `X-Ray Production`
-- Dj Vadim - Yung N Powerful `Soulbeats Records`
-- Lee Scratch Perry - Egypt For My Ransom `Ariwa`
-- Third World - Who Gave You (Jah Rastafari) `CBS`
-:::
-
-### ( 03/11/2023 )
-####  Mix Four - `time: 01:27:17`
-
-Friday night live with old school & new school 👓
-
-<my-audio url="https://live.rouquin.me/archives/MixFour.ogg" playerid="audio-player"></my-audio>
-
-::: details Click to see this live 🚭
-<my-live-archives url="https://live.rouquin.me/archives/MixFour.mp4" urltrack="./vtt/MixFour.vtt" datenamemix="03/11/2023 :: Mix Four"></my-live-archives>
-:::
-
-📻 Download [mp3](https://live.rouquin.me/archives/MixFour.mp3) - [ogg](https://live.rouquin.me/archives/MixFour.ogg)
-
-::: tip Track list
-
-- Saint Germain - Jericho Jerk `Philips`
-- Saint Germain - Thank U Mom `F Communications`
-- Dj Cam - Dieu reconnaîtra les siens `Attytude Records`
-- Dj Cam (feat. Kakoli Sengupta) - Meera `Inflamable`
-- Transglobal Underground - Chariots `Nation Records`
-- Tricky - You Don't `4th & Broadway, UMC` 
-- Thievery Corporation - The Glass and Bread Game `Primary Wave Music`  
-- Dj Shadow  - Stem / Long Stem `UMC, Mo Wax, Island Records` (45 rpm) 💥
-- Coldcut (Bonobo Remix) - Man in a garage   `Ninja Tune` 
-- Bonobo - Defender `OUTLIER`
-- Odesza (feat. Bettye LaVette) - The last good bye `Foreign Family Collective, Ninja Tune`
-- Jayda G  - DJ-Kicks – Jennifer Loveless - In 10.000 Places `!K7 Records`
-- Royskopp - Breathe `Dog Triumph`
-- Ben Böhmer - Beyond Beliefs `Anjunadeep`
-- Thylacine - Anatolia `Intuitive Records`
-- Oliver Koletzki - Copal `Stil Vor Talent`
-- The blaze - She `Animal63`
-- The blaze - Places `Animal63`
-- Daft punk "Homework" Remixes - Revolution a capella `Soma Quality Recordings, ADA France`
-:::
-
-### ( 02/25/2023 )
-####  Mix Three - `time: 00:24:16`
-
-Girl session 👸🏽
-
-<my-audio url="https://live.rouquin.me/archives/MixThree.ogg" playerid="audio-player"></my-audio>
-
-::: details Click to see this live 🚭
-<my-live-archives url="https://live.rouquin.me/archives/MixThree.mp4" urltrack="./vtt/MixThree.vtt" datenamemix="02/25/2023 :: Mix Three"></my-live-archives>
-:::
-
-📻 Download [mp3](https://live.rouquin.me/archives/MixThree.mp3) - [ogg](https://live.rouquin.me/archives/MixThree.ogg)
-
-::: tip Track list
-
-- Jorja Smith - Where did I go? `Because Music`
-- Nilüfer Yanya - Stabilise `ATO Records`
-- Rosalia (feat. The Weeknd) - La Fama `Columbia, Sony Music`
-- Sampa - Let me be great (feat. Angelique Kidjo) `Loma Vista`
-- Lil’ Kim - Queen bitch pt 2 (feat. puff daddy) `Rhino Records, Undeas Recording, LLC, Atlantic Recording Corporation`
-- Mos Def - Brown Sugar `MCA Records`
-- Mary j Blige & Mos Def - Beautiful `Not On Label Mary J. Blige`
-- Fugees - Manifest/outro `Columbia, Sony Music, Ruffhouse Records`
-:::
-
-### ( 02/19/2023 )
-####  Mix Two - `time: 01:11:20`
-
-Old school Hip Hop session ❤️ 
-
-<my-audio url="https://live.rouquin.me/archives/MixTwo.ogg" playerid="audio-player"></my-audio>
-
-📻 Download [mp3](https://live.rouquin.me/archives/MixTwo.mp3) [ogg](https://live.rouquin.me/archives/MixTwo.ogg)
-
-::: tip Track list
-
-- Dj cam - Broadcasting live `Inflamable`
-- Roots manuva - Juggle tings proper `Big Dada Recordings`
-- Jurassic 5 - Thin line `Interscope Records`
-- Lil’ Kim - Who’s number one `Rhino Records`
-- Naneh Cherry - Outre Risque Locomotive `Virgin`
-- Mary j blige & mos def - Beautiful `Not On Label Mary J. Blige`
-- The Roots (feat. Erika’s badu) - « You got me » `Geffen Records`
-- Dj Krush - Danger of love `Columbia`
-- Eminem - Hailie’s song `Aftermath Entertainment, Shady Records, Web Entertainment`
-- The Notorious B.I.G - Juicy `Bad Boy Entertainment`
-- Snoop doggy dog - Doggy Dogg World `Death Row Records`
-- Dr. Dre (feat. Eminem & Xzibit) - What’s the difference `Aftermath Entertainment`
-- Xzibit (feat. Snoop Doogy Dog) - Losin’ your mind `Open Bar Entertainment`
-- Cypress hill - Superstar `Columbia, Soul Assassins`
-- Dj Vadim - The terroriste `Ninja Tune`
-- Dr. Dre (feat. Snoop Doogy Dog) - The next episode `Aftermath Entertainment`
-:::
-
-### ( 02/18/2023 )
-####  Mix One - `time: 58:24`  
-
-The first and last track are for the nostalgic :wink:
-
-<my-audio url="https://live.rouquin.me/archives/MixOne.ogg" playerid="audio-player"></my-audio>
-
-
-📻 Download [mp3](https://live.rouquin.me/archives/MixOne.mp3) [ogg](https://live.rouquin.me/archives/MixOne.ogg)
-
-::: tip Track list
-
-- Stereo MC’s - The Mike Theodore Orchestra `!K7 Records`
-- Bonobo fabric - TSHA - sacre `Fabric`
-- Royksopp - Me&youphoria `Dog Triumph`
-- Sofia Kourtesis - La perla `Technicolour`
-- Jamie XX - All Under One Roof Raving `Young Turks`
-- TSHA (feat. Mafro) - Giving Up `Ninja Tune`
-- Major Lazer - Powerful `Mad Decent`
-- Rudimental - Straight from the heart `Asylum Records`
-- Rudimental (feat. Jess Glynn, Macklemore & Dan Caplen) - These days `Asylum Records`
-- Rudimental (feat. Hardy Caprio) - Ghost `Asylum Records`
-- Fatboy slim - Right here right now `BMG, Skint`
+::: warning Dance with my mix
+- [MixSix ( 04/09/2023 ) - Electronic Down tempo via Up tempo 👇 ☝️](./archives/MixSix.md)
+- [MixFive ( 03/18/2023 ) - Jamaican mix with Russian inside 🇯🇲 🌿 🇷🇺](./archives/MixFive.md)
+- [MixFour ( 03/11/2023 ) - Friday night live with old school & new school 👓](./archives/MixFour.md)
+- [MixThree ( 02/25/2023 ) - Girl session 👸🏽](./archives/MixThree.md)
+- [MixTwo ( 02/19/2023 ) - Old school Hip Hop session ❤️ ](./archives/MixTwo.md)
+- [MixOne ( 02/18/2023 ) - The first and last track are for the nostalgic :wink:](./archives/MixOne.md)
 :::
 
 ---
