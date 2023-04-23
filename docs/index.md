@@ -39,12 +39,12 @@ Electronic Up tempo via Down tempo ☝️ 👇
 ## Archive live
 
 ::: warning Dance with my mix
-- [MixSix ( 04/09/2023 ) - Electronic Down tempo via Up tempo 👇 ☝️](./archives/MixSix.md)
-- [MixFive ( 03/18/2023 ) - Jamaican mix with Russian inside 🇯🇲 🌿 🇷🇺](./archives/MixFive.md)
-- [MixFour ( 03/11/2023 ) - Friday night live with old school & new school 👓](./archives/MixFour.md)
-- [MixThree ( 02/25/2023 ) - Girl session 👸🏽](./archives/MixThree.md)
-- [MixTwo ( 02/19/2023 ) - Old school Hip Hop session ❤️ ](./archives/MixTwo.md)
-- [MixOne ( 02/18/2023 ) - The first and last track are for the nostalgic :wink:](./archives/MixOne.md)
+- [MixSix ( 04/09/2023 ) - Electronic Down tempo via Up tempo 👇 ☝️](./archives-mix/MixSix.md)
+- [MixFive ( 03/18/2023 ) - Jamaican mix with Russian inside 🇯🇲 🌿 🇷🇺](./archives-mix/MixFive.md)
+- [MixFour ( 03/11/2023 ) - Friday night live with old school & new school 👓](./archives-mix/MixFour.md)
+- [MixThree ( 02/25/2023 ) - Girl session 👸🏽](./archives-mix/MixThree.md)
+- [MixTwo ( 02/19/2023 ) - Old school Hip Hop session ❤️ ](./archives-mix/MixTwo.md)
+- [MixOne ( 02/18/2023 ) - The first and last track are for the nostalgic :wink:](./archives-mix/MixOne.md)
 :::
 
 ---
