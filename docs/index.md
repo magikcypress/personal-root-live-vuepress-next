@@ -10,12 +10,44 @@ search: false
 
 ## Archive live
 
+### ( 04/22/2023 )
+#### Mix Seven - `time: 01:01:17`
+
+Electronic Up tempo via Down tempo ☝️ 👇
+
+<my-audio url="https://live.rouquin.me/archives/MixSeven.ogg" playerid="audio-player"></my-audio>
+
+📻 Download [mp4](https://live.rouquin.me/archives/MixSeven.mp4) - [mp3](https://live.rouquin.me/archives/MixSeven.mp3) - [ogg](https://live.rouquin.me/archives/MixSeven.ogg)
+
+::: tip Track list
+
+- Catching Flies - Kite Hill (Freddie Joachim Remix) `Indigo Soul`
+- Tourist - You Love `Monday`
+- Swedish House Mafia (feat. Sting) - Redlight `Republic Records`
+- Ahmed Spins (feat. Stevo Atambire) - Anchor Point `MoBlack Records`
+- Thylacine - Night Train `Intuitive Records`
+- Âme - Nia `Fabric`
+- George Fitzgerald - Setting Sun `Double Six`
+- Scratch Massive - Mono Arch `Bordel`
+- Lost Frequencies - Are You With Me `Music On Vinyl - Armada`
+- James Vincent McMorrow X Rudimental - Be Somebody `Asylum Records`
+- Swedish House Mafia (feat. The Weeknd) - Moth To A Flame `Republic Records`
+- The Weeknd - Take My Breath `XO - Republic Records`
+- DJ Seinfeld (feat. Teira) - The Right Place `Ninja Tune`
+- Sofia Kourtesis - La Perla `Technicolour`
+- Swedish House Mafia - Another Minute `Republic Records`
+:::
+
 ### ( 04/09/2023 )
 #### Mix Six - `time: 00:52:26`
 
 Electronic Down tempo via Up tempo 👇 ☝️
 
 <my-audio url="https://live.rouquin.me/archives/MixSix.ogg" playerid="audio-player"></my-audio>
+
+::: details Click to see this live 🚭
+<my-live-archives url="https://live.rouquin.me/archives/MixSix.mp4" urltrack="./vtt/MixSix.vtt" datenamemix="03/09/2023 :: Mix Six"></my-live-archives>
+:::
 
 📻 Download [mp4](https://live.rouquin.me/archives/MixSix.mp4) - [mp3](https://live.rouquin.me/archives/MixSix.mp3) - [ogg](https://live.rouquin.me/archives/MixSix.ogg)
 
@@ -27,7 +59,7 @@ Electronic Down tempo via Up tempo 👇 ☝️
 - Kungs - Lipstick `Island Records, Def Jam Recordings`
 - Fakear - Olele `Nowadays Records`
 - Moderat - Neon Rats `Monkeytown Records` (Sounds experimental low volume excuse!)
-- Scott Grooves Feat. Parliament & Funkadelic–	Mothership Reconnection (Daft Punk Remix) `Wagram Music`
+- Scott Grooves (feat. Parliament & Funkadelic) –	Mothership Reconnection (Daft Punk Remix) `Wagram Music`
 - Revolution 909 - Roger Sanchez & Junior Sanchez Remix - "Homework" Remixes `Soma Quality Recordings `
 - Bicep - Sundial `Ninja Tune`
 - Tribe 606 - Aloe Vera (Dermo Tropical Mix) `Square Records`
@@ -51,11 +83,11 @@ Jamaican mix with Russian inside 🇯🇲 🌿 🇷🇺
 ::: tip Track list
 
 - Rockers Hi-Fi - Kids Loop `!K7 Records`
-- Mad Professor And The Robotiks Featuring Lee Scratch Perry - Soul Fire Dub `Ariwa`
-- DJ Vadim (feat Irah, Killa P, Lasai) - Bun Out Boris `Soulbeats Records`
+- Mad Professor And The Robotiks (feat. Lee Scratch Perry) - Soul Fire Dub `Ariwa`
+- DJ Vadim (feat. Irah, Killa P, Lasai) - Bun Out Boris `Soulbeats Records`
 - Third World - Now That We Found Love `Cleopatra Records`
 - The Wailers - Burnin' And Lootin' `Island Records`
-- DJ Vadim & J Man (feat Lasai) - Good Old Days `X-Ray Production`
+- DJ Vadim & J Man (feat. Lasai) - Good Old Days `X-Ray Production`
 - Dj Vadim - Yung N Powerful `Soulbeats Records`
 - Lee Scratch Perry - Egypt For My Ransom `Ariwa`
 - Third World - Who Gave You (Jah Rastafari) `CBS`
@@ -79,14 +111,14 @@ Friday night live with old school & new school 👓
 - Saint Germain - Jericho Jerk `Philips`
 - Saint Germain - Thank U Mom `F Communications`
 - Dj Cam - Dieu reconnaîtra les siens `Attytude Records`
-- Dj Cam (feat Kakoli Sengupta) - Meera `Inflamable`
+- Dj Cam (feat. Kakoli Sengupta) - Meera `Inflamable`
 - Transglobal Underground - Chariots `Nation Records`
 - Tricky - You Don't `4th & Broadway, UMC` 
 - Thievery Corporation - The Glass and Bread Game `Primary Wave Music`  
 - Dj Shadow  - Stem / Long Stem `UMC, Mo Wax, Island Records` (45 rpm) 💥
 - Coldcut (Bonobo Remix) - Man in a garage   `Ninja Tune` 
 - Bonobo - Defender `OUTLIER`
-- Odesza (feat Bettye LaVette) - The last good bye `Foreign Family Collective, Ninja Tune`
+- Odesza (feat. Bettye LaVette) - The last good bye `Foreign Family Collective, Ninja Tune`
 - Jayda G  - DJ-Kicks – Jennifer Loveless - In 10.000 Places `!K7 Records`
 - Royskopp - Breathe `Dog Triumph`
 - Ben Böhmer - Beyond Beliefs `Anjunadeep`
@@ -114,9 +146,9 @@ Girl session 👸🏽
 
 - Jorja Smith - Where did I go? `Because Music`
 - Nilüfer Yanya - Stabilise `ATO Records`
-- Rosalia (feat The Weeknd) - La Fama `Columbia, Sony Music`
-- Sampa - Let me be great feat Angelique Kidjo `Loma Vista`
-- Lil’ Kim - Queen bitch pt 2 (feat puff daddy) `Rhino Records, Undeas Recording, LLC, Atlantic Recording Corporation`
+- Rosalia (feat. The Weeknd) - La Fama `Columbia, Sony Music`
+- Sampa - Let me be great (feat. Angelique Kidjo) `Loma Vista`
+- Lil’ Kim - Queen bitch pt 2 (feat. puff daddy) `Rhino Records, Undeas Recording, LLC, Atlantic Recording Corporation`
 - Mos Def - Brown Sugar `MCA Records`
 - Mary j Blige & Mos Def - Beautiful `Not On Label Mary J. Blige`
 - Fugees - Manifest/outro `Columbia, Sony Music, Ruffhouse Records`
@@ -139,16 +171,16 @@ Old school Hip Hop session ❤️
 - Lil’ Kim - Who’s number one `Rhino Records`
 - Naneh Cherry - Outre Risque Locomotive `Virgin`
 - Mary j blige & mos def - Beautiful `Not On Label Mary J. Blige`
-- The Roots (feat Erika’s badu) - « You got me » `Geffen Records`
+- The Roots (feat. Erika’s badu) - « You got me » `Geffen Records`
 - Dj Krush - Danger of love `Columbia`
 - Eminem - Hailie’s song `Aftermath Entertainment, Shady Records, Web Entertainment`
 - The Notorious B.I.G - Juicy `Bad Boy Entertainment`
 - Snoop doggy dog - Doggy Dogg World `Death Row Records`
-- Dr. Dre (feat Eminem & Xzibit) - What’s the difference `Aftermath Entertainment`
-- Xzibit (feat snoop doogy dog) - Losin’ your mind `Open Bar Entertainment`
+- Dr. Dre (feat. Eminem & Xzibit) - What’s the difference `Aftermath Entertainment`
+- Xzibit (feat. Snoop Doogy Dog) - Losin’ your mind `Open Bar Entertainment`
 - Cypress hill - Superstar `Columbia, Soul Assassins`
 - Dj Vadim - The terroriste `Ninja Tune`
-- Dr. Dre (feat snoop doogy dog) - The next episode `Aftermath Entertainment`
+- Dr. Dre (feat. Snoop Doogy Dog) - The next episode `Aftermath Entertainment`
 :::
 
 ### ( 02/18/2023 )
@@ -168,11 +200,11 @@ The first and last track are for the nostalgic :wink:
 - Royksopp - Me&youphoria `Dog Triumph`
 - Sofia Kourtesis - La perla `Technicolour`
 - Jamie XX - All Under One Roof Raving `Young Turks`
-- TSHA (feat Mafro) - Giving Up `Ninja Tune`
+- TSHA (feat. Mafro) - Giving Up `Ninja Tune`
 - Major Lazer - Powerful `Mad Decent`
 - Rudimental - Straight from the heart `Asylum Records`
-- Rudimental (feat Jess Glynn, Macklemore & Dan Caplen) - These days `Asylum Records`
-- Rudimental (feat Hardy Caprio) - Ghost `Asylum Records`
+- Rudimental (feat. Jess Glynn, Macklemore & Dan Caplen) - These days `Asylum Records`
+- Rudimental (feat. Hardy Caprio) - Ghost `Asylum Records`
 - Fatboy slim - Right here right now `BMG, Skint`
 :::
 

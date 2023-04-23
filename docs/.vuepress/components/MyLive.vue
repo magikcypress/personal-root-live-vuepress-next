@@ -5,13 +5,13 @@
     <!--video-player :options="videoOptions" /-->
     <video ref="videoPlayer" class="video-js" controls preload="auto" data-setup='{}'>
         <source src="https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8" type="application/x-mpegURL">
-        <source src="https://live.rouquin.me/archives/MixSix.mp4" type="video/mp4">
-        <track kind="captions" src="./vtt/MixSix.vtt" srclang="en" label="English" ref="trackElement">
+        <source src="https://live.rouquin.me/archives/MixSeven.mp4" type="video/mp4">
+        <track kind="captions" src="./vtt/MixSeven.vtt" srclang="en" label="English" ref="trackElement">
     </video>
-    <span class="archive-steam" v-if="offline">04/09/2023 :: Mix Six</span>
+    <span class="archive-steam" v-if="offline">04/22/2023 :: Mix Seven</span>
 
     <div class="bot-telegram">
-        <a href="https://t.me/liverouquin" title="Sign up on Telegram">Sign up on Telegram</a> to receive messages telling you that I'm going to be online.
+        <a href="https://t.me/liverouquin" title="Sign up on Telegram">Sign up on Telegram</a> to receive messages telling you when I'm go online.
     </div>
 </template>
 
@@ -62,13 +62,13 @@
                     },
                     {
                         type: 'video/mp4',
-                        src: 'https://live.rouquin.me/archives/MixSix.mp4'
+                        src: 'https://live.rouquin.me/archives/MixSeven.mp4'
                     }
                 ],
                 tracks: [
                     {
                         kind: 'caption',
-                        src: './vtt/MixSix.vtt',
+                        src: './vtt/MixSeven.vtt',
                         srclang: 'en',
                         label: 'English',
                         mode: 'showing'
