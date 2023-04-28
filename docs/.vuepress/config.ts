@@ -32,7 +32,7 @@ module.exports = {
     ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
     ['meta', { name: "robots", content: "noindex,nofollow"}],
     ['link', { type: "txt/css", href: "https://vjs.zencdn.net/8.0.4/video-js.css"}],
-    ['script', { src: "https://jasper-shrimp.pikapod.net/umami.js", 'data-website-id': "66b06a36-3963-4ac0-8501-e7d66b4e61fa", async: true, defer: true }]
+    ['script', { src: "https://jasper-shrimp.pikapod.net/umami.js", 'data-website-id': "66b06a36-3963-4ac0-8501-e7d66b4e61fa", async: true }]
   ],
 
   locales: {
