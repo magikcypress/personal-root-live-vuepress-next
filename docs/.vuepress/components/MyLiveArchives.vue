@@ -1,10 +1,11 @@
 <template>
-
+    
+    <span class="archive-steam">{{ datenamemix }}</span>
     <video ref="videoPlayer" class="video-js" controls preload="auto" data-setup='{}'>
         <source :src="url" type="video/mp4">
         <track kind="captions" :src="urltrack" srclang="en" label="English">
     </video>
-    <span class="archive-steam">{{ datenamemix }}</span>
+    
 </template>
 
 <script>
