@@ -6,7 +6,7 @@ sidebar: false
 search: false
 ---
 
-<MyLive />
+<my-live url="https://live.rouquin.me/archives/test.mp4" urltrack="./vtt/MixSeven.vtt" datenamemix="04/22/2023 :: Mix Seven"></my-live>
 
 ### ( 04/22/2023 )
 #### Mix Seven - `time: 01:01:17`

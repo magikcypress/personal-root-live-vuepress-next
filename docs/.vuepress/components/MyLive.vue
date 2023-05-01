@@ -2,12 +2,12 @@
 
     <h1><code>{{ currentStream }}</code></h1>
 
-    <span class="archive-steam" v-if="offline">04/22/2023 :: Mix Seven</span>
+    <span class="archive-steam">{{ datenamemix }}</span>
     <!--video-player :options="videoOptions" /-->
     <video ref="videoPlayer" class="video-js" controls preload="auto" data-setup='{}'>
         <source src="https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8" type="application/x-mpegURL">
-        <source src="https://live.rouquin.me/archives/MixSeven.mp4" type="video/mp4">
-        <track kind="captions" src="./vtt/MixSeven.vtt" srclang="en" label="English" ref="trackElement">
+        <source :src="url" type="video/mp4">
+        <track kind="captions" :src="urltrack" srclang="en" label="English" ref="trackElement">
     </video>
 
     <div class="bot-telegram">
@@ -26,6 +26,7 @@
     // components: {
     //   VideoPlayer
     // },
+    props: ["url", "urltrack", "datenamemix"],
     data() {
         return {
             player: null,
@@ -62,13 +63,13 @@
                     },
                     {
                         type: 'video/mp4',
-                        src: 'https://live.rouquin.me/archives/MixSeven.mp4'
+                        src: this.url
                     }
                 ],
                 tracks: [
                     {
                         kind: 'caption',
-                        src: './vtt/MixSeven.vtt',
+                        src: this.urltrack,
                         srclang: 'en',
                         label: 'English',
                         mode: 'showing'

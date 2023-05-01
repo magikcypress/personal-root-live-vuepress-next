@@ -3,9 +3,12 @@
     <span class="archive-steam">{{ datenamemix }}</span>
     <video ref="videoPlayer" class="video-js" controls preload="auto" data-setup='{}'>
         <source :src="url" type="video/mp4">
-        <track kind="captions" :src="urltrack" srclang="en" label="English">
+        <track kind="captions" :src="urltrack" srclang="en" label="English" ref="trackElement">
     </video>
-    
+
+    <div class="bot-telegram">
+        <a href="https://t.me/liverouquin" title="Sign up on Telegram">Sign up on Telegram</a> to receive messages telling you when I'm go online.
+    </div>
 </template>
 
 <script>
@@ -24,6 +27,7 @@
             metadataTrack: '',
             videoElement: '',
             statusVideo: 1,
+            offline: true,
             streams: {
                 hls: ''
             },
@@ -46,13 +50,13 @@
                 sources: [
                     {
                         type: 'video/mp4',
-                        src: 'https://live.rouquin.me/archives/MixSix.mp4'
+                        src: this.url
                     }
                 ],
                 tracks: [
                     {
                         kind: 'caption',
-                        src: './vtt/MixSix.vtt',
+                        src: this.urltrack,
                         srclang: 'en',
                         label: 'English',
                         mode: 'showing'

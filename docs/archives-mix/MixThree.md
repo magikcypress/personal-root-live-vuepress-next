@@ -3,7 +3,7 @@
 
 Girl session 👸🏽
 
-<my-live-archives url="https://live.rouquin.me/archives/MixThree.mp4" urltrack="./vtt/MixThree.vtt" datenamemix="02/25/2023 :: Mix Three"></my-live-archives>
+<my-live-archives url="https://live.rouquin.me/archives/MixThree.mp4" urltrack="../vtt/MixThree.vtt" datenamemix="02/25/2023 :: Mix Three"></my-live-archives>
 
 📻 Download [mp3](https://live.rouquin.me/archives/MixThree.mp3) - [ogg](https://live.rouquin.me/archives/MixThree.ogg)
 
