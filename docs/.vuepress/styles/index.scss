@@ -224,23 +224,9 @@ hr {
     padding: 0 0 0 0px;
   }
 
-  code:before {
+  .custom-container.tip code:before {
     content: " ";
     display: block;
-  }
-
-  .custom-container.warning li a:before {
-    -ms-word-break: break-all;
-    word-break: break-all;
-
- /* Non standard for webkit */
-     word-break: break-word;
-
-    -webkit-hyphens: auto;
-       -moz-hyphens: auto;
-        -ms-hyphens: auto;
-            hyphens: auto;
-    hyphenate-limit-chars: 10 3 4;
   }
 
   video, .video-js {
