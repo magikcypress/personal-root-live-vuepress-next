@@ -113,7 +113,7 @@ track b,
   // border: solid 1px var(--c-black);
   // border-bottom-right-radius: 10px 10px;
   // border-bottom-left-radius: 10px 10px;
-  // z-index: 20!important;
+  z-index: 10!important;
   transform: translateX(16px) rotateZ(10deg) translateY(13px);
   background-color: var(--c-tip);
   padding: 0 .3em .3em .3em;
