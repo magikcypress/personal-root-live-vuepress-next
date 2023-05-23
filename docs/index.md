@@ -6,39 +6,36 @@ sidebar: false
 search: false
 ---
 
-<my-live url="https://live.rouquin.me/archives/MixSeven.mp4" urltrack="./vtt/MixSeven.vtt" datenamemix="04/22/2023 :: Mix Seven"></my-live>
+<my-live url="https://live.rouquin.me/archives/MixEight.mp4" urltrack="./vtt/MixEight.vtt" datenamemix="05/23/2023 :: Mix Eight"></my-live>
 
-### ( 04/22/2023 )
-#### Mix Seven - `time: 01:01:17`
+### ( 05/23/2023 )
+#### Mix Eight - `time: 00:30:40`
 
-Electronic Up tempo via Down tempo ☝️ 👇
+Drum & Bass 🥁🪘
 
-<my-audio url="https://live.rouquin.me/archives/MixSeven.ogg" playerid="audio-player"></my-audio>
+<my-audio url="https://live.rouquin.me/archives/MixEight.ogg" playerid="audio-player"></my-audio>
 
-📻 Download [mp4](https://live.rouquin.me/archives/MixSeven.mp4) - [mp3](https://live.rouquin.me/archives/MixSeven.mp3) - [ogg](https://live.rouquin.me/archives/MixSeven.ogg)
+📻 Download [mp4](https://live.rouquin.me/archives/MixEight.mp4) - [mp3](https://live.rouquin.me/archives/MixEight.mp3) - [ogg](https://live.rouquin.me/archives/MixEight.ogg)
 
 ::: tip Track list
 
-- Catching Flies - Kite Hill (Freddie Joachim Remix) `Indigo Soul`
-- Tourist - You Love `Monday`
-- Swedish House Mafia (feat. Sting) - Redlight `Republic Records`
-- Ahmed Spins (feat. Stevo Atambire) - Anchor Point `MoBlack Records`
-- Thylacine - Night Train `Intuitive Records`
-- Âme - Nia `Fabric`
-- George Fitzgerald - Setting Sun `Double Six`
-- Scratch Massive - Mono Arch `Bordel`
-- Lost Frequencies - Are You With Me `Music On Vinyl - Armada`
+- De la soul - Intro `AOI Records, Chrysalis`
+- Kemistry & Storm - John B - Pressure `!K7 Records`
+- Benny Beatz - Electric Brake `IZM Records`
+- Barok Dj - Nightlands `Opulsion`
+- Plutonik - Londonium `Integrity Records`
 - James Vincent McMorrow X Rudimental - Be Somebody `Asylum Records`
-- Swedish House Mafia (feat. The Weeknd) - Moth To A Flame `Republic Records`
-- The Weeknd - Take My Breath `XO - Republic Records`
-- DJ Seinfeld (feat. Teira) - The Right Place `Ninja Tune`
-- Sofia Kourtesis - La Perla `Technicolour`
-- Swedish House Mafia - Another Minute `Republic Records`
+- Black Yukon Sucker Punch - Buried `Yukon Punch Recordings`
+- Unknown Artist - Da licence `As We Enter – 2`
+- Dj Sofa - Jungle Valley `Myor Massiv`
+- Unknown Artist - Velvet Space `As We Enter – 2`
+- Rudimental (feat Kevin Garrett) - Do you remember `Asylum Records, Atlantic`
 :::
 
 ## Archive live
 
 ::: warning Dance with my mix
+- [MixSeven ( 04/22/2023 ) - Electronic Up tempo via Down tempo ☝️ 👇](./archives-mix/MixSeven.md)
 - [MixSix ( 04/09/2023 ) - Electronic Down tempo via Up tempo 👇 ☝️](./archives-mix/MixSix.md)
 - [MixFive ( 03/18/2023 ) - Jamaican mix with Russian inside 🇯🇲 🌿 🇷🇺](./archives-mix/MixFive.md)
 - [MixFour ( 03/11/2023 ) - Friday night live with old school & new school 👓](./archives-mix/MixFour.md)

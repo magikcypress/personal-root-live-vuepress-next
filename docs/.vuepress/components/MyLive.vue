@@ -2,7 +2,7 @@
 
     <h1><code>{{ currentStream }}</code></h1>
 
-    <span class="archive-steam">{{ datenamemix }}</span>
+    <span class="archive-steam" v-if="statusVideo === 0">{{ datenamemix }}</span>
     <!--video-player :options="videoOptions" /-->
     <video ref="videoPlayer" class="video-js" controls preload="auto" data-setup='{}'>
         <source src="https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8" type="application/x-mpegURL">

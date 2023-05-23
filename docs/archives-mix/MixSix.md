@@ -19,6 +19,6 @@ Electronic Down tempo via Up tempo 👇 ☝️
 - Revolution 909 - Roger Sanchez & Junior Sanchez Remix - "Homework" Remixes `Soma Quality Recordings `
 - Bicep - Sundial `Ninja Tune`
 - Tribe 606 - Aloe Vera (Dermo Tropical Mix) `Square Records`
-- The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix `	DiKi Records`
+- The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix `DiKi Records`
 - Digitalism - Falling `!K7 Records`
 :::
