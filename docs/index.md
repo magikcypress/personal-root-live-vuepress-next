@@ -6,35 +6,37 @@ sidebar: false
 search: false
 ---
 
-<my-live url="https://live.rouquin.me/archives/MixEight.mp4" urltrack="./vtt/MixEight.vtt" datenamemix="05/23/2023 :: Mix Eight"></my-live>
+<my-live url="https://live.rouquin.me/archives/MixNine.mp4" urltrack="./vtt/MixNine.vtt" datenamemix="07/01/2023 :: Mix Nine"></my-live>
 
-### ( 05/23/2023 )
-#### Mix Eight - `time: 00:30:40`
+### ( 07/01/2023 )
+#### Mix Nine - `time: 00:44:50`
 
-Drum & Bass 🥁🪘
+Summer Music ⛱️🌴 (Album of this year <a href="https://www.sleafordmods.com/" target="_blank">Sleaford Mods - UK Grim</a>)
 
-<my-audio url="https://live.rouquin.me/archives/MixEight.ogg" playerid="audio-player"></my-audio>
+<my-audio url="https://live.rouquin.me/archives/MixNine.ogg" playerid="audio-player"></my-audio>
 
-📻 Download [mp4](https://live.rouquin.me/archives/MixEight.mp4) - [mp3](https://live.rouquin.me/archives/MixEight.mp3) - [ogg](https://live.rouquin.me/archives/MixEight.ogg)
+📻 Download [mp4](https://live.rouquin.me/archives/MixNine.mp4) - [mp3](https://live.rouquin.me/archives/MixNine.mp3) - [ogg](https://live.rouquin.me/archives/MixNine.ogg)
 
 ::: tip Track list
 
-- De la soul - Intro `AOI Records, Chrysalis`
-- Kemistry & Storm - John B - Pressure `!K7 Records`
-- Benny Beatz - Electric Brake `IZM Records`
-- Barok Dj - Nightlands `Opulsion`
-- Plutonik - Londonium `Integrity Records`
-- James Vincent McMorrow X Rudimental - Be Somebody `Asylum Records`
-- Black Yukon Sucker Punch - Buried `Yukon Punch Recordings`
-- Unknown Artist - Da licence `As We Enter – 2`
-- Dj Sofa - Jungle Valley `Myor Massiv`
-- Unknown Artist - Velvet Space `As We Enter – 2`
-- Rudimental (feat Kevin Garrett) - Do you remember `Asylum Records, Atlantic`
+- Sleaford Mods - Apart from you `Rough Trade`
+- Rudimental - Free `Black Butter Records, Asylum Records, Atlantic`
+- Charlotte Cardin - Meaningless `Cult Nation`
+- Jayda G - Circle Back Around `Ninja Tune`
+- LP Giobbi - Georgia  `Counter Records`
+- Overmono - Is U `XL Recordings`
+- George Fitzgerald - Burns `Double Six`
+- Ahmed Spins (feat Lizwi) - Waves & Wavs `MoBlack Records`
+- Leftfield - Afrika Shox `Hard Hands`
+- SebastiAn - Walkman `Ed Banger Records, Because Music`
+- Teenage Bad Girl - Cocotte `Citizen Records`
+- Sleaford Mods - Rhythms of class `Rough Trade`
 :::
 
 ## Archive live
 
 ::: warning Dance with my mix
+- [MixEight ( 05/23/2023 ) - Drum & Bass 🥁🪘](./archives-mix/MixEight.md)
 - [MixSeven ( 04/22/2023 ) - Electronic Up tempo via Down tempo ☝️ 👇](./archives-mix/MixSeven.md)
 - [MixSix ( 04/09/2023 ) - Electronic Down tempo via Up tempo 👇 ☝️](./archives-mix/MixSix.md)
 - [MixFive ( 03/18/2023 ) - Jamaican mix with Russian inside 🇯🇲 🌿 🇷🇺](./archives-mix/MixFive.md)
