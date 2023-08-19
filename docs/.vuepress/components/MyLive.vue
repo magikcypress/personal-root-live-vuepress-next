@@ -7,7 +7,7 @@
     <video ref="videoPlayer" class="video-js" controls preload="auto" data-setup='{}'>
         <source src="https://live.rouquin.me:8888/hls/live_883158378_G7hEwywoc201aCskN8ZKD2KDHHQ3Yd.m3u8" type="application/x-mpegURL">
         <source :src="url" type="video/mp4">
-        <track kind="captions" :src="urltrack" srclang="en" label="English" ref="trackElement">
+        <track kind="captions" :src="urltrack" srclang="en" label="English" ref="trackElement" default>
     </video>
 
     <div class="bot-telegram">
@@ -72,7 +72,8 @@
                         src: this.urltrack,
                         srclang: 'en',
                         label: 'English',
-                        mode: 'showing'
+                        mode: 'showing',
+                        default: true
                     },
                     {
                         kind: 'caption',

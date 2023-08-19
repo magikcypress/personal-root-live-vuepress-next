@@ -6,36 +6,35 @@ sidebar: false
 search: false
 ---
 
-<my-live url="https://live.rouquin.me/archives/MixNine.mp4" urltrack="./vtt/MixNine.vtt" datenamemix="07/01/2023 :: Mix Nine"></my-live>
+<my-live url="https://live.rouquin.me/archives/MixTen.mp4" urltrack="./vtt/MixTen.vtt" datenamemix="08/19/2023 :: Mix Ten"></my-live>
 
-### ( 07/01/2023 )
-#### Mix Nine - `time: 00:44:50`
+### ( 08/19/2023 )
+#### Mix Ten - `time: 00:58:16`
 
-Summer Music ⛱️🌴 (Album of this year <a href="https://www.sleafordmods.com/" target="_blank">Sleaford Mods - UK Grim</a>)
+Techno Import 🥏 (odd path sometime)
 
-<my-audio url="https://live.rouquin.me/archives/MixNine.ogg" playerid="audio-player"></my-audio>
+<my-audio url="https://live.rouquin.me/archives/MixTen.ogg" playerid="audio-player"></my-audio>
 
-📻 Download [mp4](https://live.rouquin.me/archives/MixNine.mp4) - [mp3](https://live.rouquin.me/archives/MixNine.mp3) - [ogg](https://live.rouquin.me/archives/MixNine.ogg)
+📻 Download [mp4](https://live.rouquin.me/archives/MixTen.mp4) - [mp3](https://live.rouquin.me/archives/MixTen.mp3) - [ogg](https://live.rouquin.me/archives/MixTen.ogg)
 
 ::: tip Track list
 
-- Sleaford Mods - Apart from you `Rough Trade`
-- Rudimental - Free `Black Butter Records, Asylum Records, Atlantic`
-- Charlotte Cardin - Meaningless `Cult Nation`
-- Jayda G - Circle Back Around `Ninja Tune`
-- LP Giobbi - Georgia  `Counter Records`
-- Overmono - Is U `XL Recordings`
-- George Fitzgerald - Burns `Double Six`
-- Ahmed Spins (feat Lizwi) - Waves & Wavs `MoBlack Records`
-- Leftfield - Afrika Shox `Hard Hands`
-- SebastiAn - Walkman `Ed Banger Records, Because Music`
-- Teenage Bad Girl - Cocotte `Citizen Records`
-- Sleaford Mods - Rhythms of class `Rough Trade`
+- Riccardo Ricci - Cometa `Relikt`
+- Random Boys - Chikken `Random Electronic`
+- Vitalic - Poney Pt.1 `Wagram Music`
+- Kolsch - Time `Kompakt`
+- Big Bug & Bastard Beat - TI 1.0 `Basilic Records`
+- Felix Da Housecat - Future Calls The Dawn `Different`
+- Dj Honesty - Firm `Syncrophone Recordings`
+- Stylophonic - Tocadisco’s supermodel DJs `	Superstar Recordings`
+- Der Dritte Raum - Hale Bopp (dj Lion remix) `Harthouse`
+- Howie B - Authentication `HB Recordings`
 :::
 
 ## Archive live
 
 ::: warning Dance with my mix
+- [MixNine ( 07/01/2023 ) - Summer Music ⛱️🌴](./archives-mix/MixNine.md)
 - [MixEight ( 05/23/2023 ) - Drum & Bass 🥁🪘](./archives-mix/MixEight.md)
 - [MixSeven ( 04/22/2023 ) - Electronic Up tempo via Down tempo ☝️ 👇](./archives-mix/MixSeven.md)
 - [MixSix ( 04/09/2023 ) - Electronic Down tempo via Up tempo 👇 ☝️](./archives-mix/MixSix.md)

@@ -3,7 +3,7 @@
     <span class="archive-steam">{{ datenamemix }}</span>
     <video ref="videoPlayer" class="video-js" controls preload="auto" data-setup='{}'>
         <source :src="url" type="video/mp4">
-        <track kind="captions" :src="urltrack" srclang="en" label="English" ref="trackElement">
+        <track kind="captions" :src="urltrack" srclang="en" label="English" ref="trackElement" default>
     </video>
 
     <div class="bot-telegram">
@@ -59,7 +59,8 @@
                         src: this.urltrack,
                         srclang: 'en',
                         label: 'English',
-                        mode: 'showing'
+                        mode: 'showing',
+                        default: true
                     }
                 ],
                 poster: '/img/cat.webp',
