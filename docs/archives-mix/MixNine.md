@@ -1,4 +1,11 @@
+---
+sidebar: false
+prev: ./MixEight
+next: False
+---
+
 # Mix Nine - `time: 00:44:50`
+
 ## ( 07/01/2023 )
 
 Summer Music ⛱️🌴 (Album of this year [Sleaford Mods - UK Grim](https://www.sleafordmods.com/))

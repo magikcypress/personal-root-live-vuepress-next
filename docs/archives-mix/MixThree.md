@@ -1,10 +1,11 @@
 ---
 sidebar: false
-prev: ./MixThree
+prev: ./MixTwo
 next: ./MixFour
 ---
 
-#  Mix Three - `time: 00:24:16`
+# Mix Three - `time: 00:24:16`
+
 ## ( 02/25/2023 )
 
 Girl session 👸🏽

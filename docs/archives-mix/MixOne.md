@@ -4,7 +4,8 @@ prev: false
 next: ./MixTwo
 ---
 
-#  Mix One - `time: 58:24`  
+# Mix One - `time: 58:24`
+
 ## ( 02/18/2023 )
 
 The first and last track are for the nostalgic :wink:

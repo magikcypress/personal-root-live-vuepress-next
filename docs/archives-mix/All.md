@@ -62,10 +62,10 @@
 - Dj Cam - Dieu reconnaîtra les siens `Attytude Records`
 - Dj Cam (feat. Kakoli Sengupta) - Meera `Inflamable`
 - Transglobal Underground - Chariots `Nation Records`
-- Tricky - You Don't `4th & Broadway, UMC` 
+- Tricky - You Don't `4th & Broadway, UMC`
 - Thievery Corporation - The Glass and Bread Game `Primary Wave Music`  
 - Dj Shadow  - Stem / Long Stem `UMC, Mo Wax, Island Records` (45 rpm) 💥
-- Coldcut (Bonobo Remix) - Man in a garage   `Ninja Tune` 
+- Coldcut (Bonobo Remix) - Man in a garage   `Ninja Tune`
 - Bonobo - Defender `OUTLIER`
 - Odesza (feat. Bettye LaVette) - The last good bye `Foreign Family Collective, Ninja Tune`
 - Jayda G  - DJ-Kicks – Jennifer Loveless - In 10.000 Places `!K7 Records`
@@ -103,8 +103,8 @@
 - Kungs - Lipstick `Island Records, Def Jam Recordings`
 - Fakear - Olele `Nowadays Records`
 - Moderat - Neon Rats `Monkeytown Records` (Sounds experimental low volume excuse!)
-- Scott Grooves (feat. Parliament & Funkadelic) –	Mothership Reconnection (Daft Punk Remix) `Wagram Music`
-- Revolution 909 - Roger Sanchez & Junior Sanchez Remix - "Homework" Remixes `Soma Quality Recordings `
+- Scott Grooves (feat. Parliament & Funkadelic) – Mothership Reconnection (Daft Punk Remix) `Wagram Music`
+- Revolution 909 - Roger Sanchez & Junior Sanchez Remix - "Homework" Remixes `Soma Quality Recordings`
 - Bicep - Sundial `Ninja Tune`
 - Tribe 606 - Aloe Vera (Dermo Tropical Mix) `Square Records`
 - The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix `DiKi Records`
@@ -178,7 +178,7 @@
 - Big Bug & Bastard Beat - TI 1.0 `Basilic Records`
 - Felix Da Housecat - Future Calls The Dawn `Different`
 - Dj Honesty - Firm `Syncrophone Recordings`
-- Stylophonic - Tocadisco’s supermodel DJs `	Superstar Recordings`
+- Stylophonic - Tocadisco’s supermodel DJs `Superstar Recordings`
 - Der Dritte Raum - Hale Bopp (dj Lion remix) `Harthouse`
 - Howie B - Authentication `HB Recordings`
 :::

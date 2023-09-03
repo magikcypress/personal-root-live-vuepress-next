@@ -1,10 +1,11 @@
 ---
 sidebar: false
-prev: ./MixFour
+prev: ./MixThree
 next: ./MixFive
 ---
 
-#  Mix Four - `time: 01:27:17`
+# Mix Four - `time: 01:27:17`
+
 ## ( 03/11/2023 )
 
 Friday night live with old school & new school 👓
@@ -20,10 +21,10 @@ Friday night live with old school & new school 👓
 - Dj Cam - Dieu reconnaîtra les siens `Attytude Records`
 - Dj Cam (feat. Kakoli Sengupta) - Meera `Inflamable`
 - Transglobal Underground - Chariots `Nation Records`
-- Tricky - You Don't `4th & Broadway, UMC` 
+- Tricky - You Don't `4th & Broadway, UMC`
 - Thievery Corporation - The Glass and Bread Game `Primary Wave Music`  
 - Dj Shadow  - Stem / Long Stem `UMC, Mo Wax, Island Records` (45 rpm) 💥
-- Coldcut (Bonobo Remix) - Man in a garage   `Ninja Tune` 
+- Coldcut (Bonobo Remix) - Man in a garage   `Ninja Tune`
 - Bonobo - Defender `OUTLIER`
 - Odesza (feat. Bettye LaVette) - The last good bye `Foreign Family Collective, Ninja Tune`
 - Jayda G  - DJ-Kicks – Jennifer Loveless - In 10.000 Places `!K7 Records`

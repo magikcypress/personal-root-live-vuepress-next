@@ -1,10 +1,11 @@
 ---
 sidebar: false
-prev: ./MixSix
+prev: ./MixFive
 next: ./MixSeven
 ---
 
 # Mix Six - `time: 00:52:26`
+
 ## ( 04/09/2023 )
 
 Electronic Down tempo via Up tempo 👇 ☝️
@@ -21,8 +22,8 @@ Electronic Down tempo via Up tempo 👇 ☝️
 - Kungs - Lipstick `Island Records, Def Jam Recordings`
 - Fakear - Olele `Nowadays Records`
 - Moderat - Neon Rats `Monkeytown Records` (Sounds experimental low volume excuse!)
-- Scott Grooves (feat. Parliament & Funkadelic) –	Mothership Reconnection (Daft Punk Remix) `Wagram Music`
-- Revolution 909 - Roger Sanchez & Junior Sanchez Remix - "Homework" Remixes `Soma Quality Recordings `
+- Scott Grooves (feat. Parliament & Funkadelic) – Mothership Reconnection (Daft Punk Remix) `Wagram Music`
+- Revolution 909 - Roger Sanchez & Junior Sanchez Remix - "Homework" Remixes `Soma Quality Recordings`
 - Bicep - Sundial `Ninja Tune`
 - Tribe 606 - Aloe Vera (Dermo Tropical Mix) `Square Records`
 - The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix `DiKi Records`

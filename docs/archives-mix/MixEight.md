@@ -1,10 +1,11 @@
 ---
 sidebar: false
-prev: ./MixEight
-next: false
+prev: ./MixSeven
+next: ./MixNine
 ---
 
 # Mix Eight - `time: 00:30:40`
+
 ## ( 05/23/2023 )
 
 Electronic Up tempo via Down tempo ☝️ 👇

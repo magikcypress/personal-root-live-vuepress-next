@@ -1,13 +1,14 @@
 ---
 sidebar: false
-prev: ./MixTwo
+prev: ./MixOne
 next: ./MixThree
 ---
 
-#  Mix Two - `time: 01:11:20`
+# Mix Two - `time: 01:11:20`
+
 ## ( 02/19/2023 )
 
-Old school Hip Hop session ❤️ 
+Old school Hip Hop session ❤️
 
 <my-audio url="https://live.rouquin.me/archives/MixTwo.ogg" playerid="audio-player"></my-audio>
 
