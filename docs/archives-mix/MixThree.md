@@ -1,3 +1,9 @@
+---
+sidebar: false
+prev: ./MixThree
+next: ./MixFour
+---
+
 #  Mix Three - `time: 00:24:16`
 ## ( 02/25/2023 )
 

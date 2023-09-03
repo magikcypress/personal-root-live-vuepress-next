@@ -1,3 +1,9 @@
+---
+sidebar: false
+prev: ./MixEight
+next: false
+---
+
 # Mix Eight - `time: 00:30:40`
 ## ( 05/23/2023 )
 
