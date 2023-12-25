@@ -207,6 +207,19 @@ hr {
   .navbar .site-name {
     font-size: 1.45rem!important;
   }
+
+  .custom-container.tip {
+    padding: 0;
+  }
+
+  .custom-container.tip ul li {
+    padding: 1px 0 10px 20px;
+  }
+
+  .custom-container.tip code:before {
+    content: " ";
+    display: inline;
+  }
 }
 
 // narrow desktop / iPad
@@ -224,9 +237,17 @@ hr {
     padding: 0 0 0 0px;
   }
 
+  .custom-container.tip {
+    padding: 0.1rem 1rem;
+  }
+
+  .custom-container.tip ul li {
+    padding: 1px 0 10px 20px;
+  }
+
   .custom-container.tip code:before {
     content: " ";
-    display: block;
+    display: inline;
   }
 
   video, .video-js {
