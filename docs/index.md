@@ -6,34 +6,41 @@ sidebar: false
 search: false
 ---
 
-<my-live url="https://live.rouquin.me/archives/MixTen.mp4" urltrack="./vtt/MixTen.vtt" datenamemix="08/19/2023 :: Mix Ten"></my-live>
+<my-live url="https://live.rouquin.me/archives/MixEleven.mp4" urltrack="./vtt/MixEleven.vtt" datenamemix="12/25/2023 :: Mix Eleven"></my-live>
 
-### ( 08/19/2023 )
-#### Mix Ten - `time: 00:58:16`
+### ( 12/25/2023 )
+#### Mix Eleven - `time: 00:51:52`
 
-Techno Import 🥏 (odd path sometime)
+Happy Christmas 🎅🤶
 
-<my-audio url="https://live.rouquin.me/archives/MixTen.ogg" playerid="audio-player"></my-audio>
+<my-audio url="https://live.rouquin.me/archives/MixEleven.ogg" playerid="audio-player"></my-audio>
 
-📻 Download [mp4](https://live.rouquin.me/archives/MixTen.mp4) - [mp3](https://live.rouquin.me/archives/MixTen.mp3) - [ogg](https://live.rouquin.me/archives/MixTen.ogg)
+📻 Download [mp4](https://live.rouquin.me/archives/MixEleven.mp4) - [mp3](https://live.rouquin.me/archives/MixEleven.mp3) - [ogg](https://live.rouquin.me/archives/MixEleven.ogg)
 
 ::: tip Track list
 
-- Riccardo Ricci - Cometa `Relikt`
-- Random Boys - Chikken `Random Electronic`
-- Vitalic - Poney Pt.1 `Wagram Music`
-- Kolsch - Time `Kompakt`
-- Big Bug & Bastard Beat - TI 1.0 `Basilic Records`
-- Felix Da Housecat - Future Calls The Dawn `Different`
-- Dj Honesty - Firm `Syncrophone Recordings`
-- Stylophonic - Tocadisco’s supermodel DJs `	Superstar Recordings`
-- Der Dritte Raum - Hale Bopp (dj Lion remix) `Harthouse`
-- Howie B - Authentication `HB Recordings`
+- Robin Schulz - Young Right Now `Warner Music`
+- Robin Schulz - Killer Queen `Warner Music`
+- Kygo - Stole The Show `Sony Music`
+- Lost Frequencies - Lift Me Up (feat. Nick Schilder) `Music On Vinyl`
+- Rüfüs Du Sol - Make It Happen `Rose Avenue`
+- Röyksopp - Running To The Sea `Cherrytree Records`
+- Bob Morses - Time And Time Again `Astralwerks`
+- Nils Hoffmann - Far Behind `Anjunadeep`
+- Disclosure - Latch (feat. Sam Smith) `Universal International Music B.V`
+- Barry Can't Swim - How It Feels `Ninja Tune`
+- Barry Can't Swim - Sunsleeper `Ninja Tune`
+- Sofia Kourtesis - El Carmen `Ninja Tune`
+- Skrillex - Selecta `Owsla - Atlantic`
+- Swedish House Mafia - Calling On `Republic Records`
 :::
+
+---
 
 ## Archive live
 
 ::: warning Dance with my mix
+- [MixTen ( 08/19/2023 ) - Techno Import 🥏](./archives-mix/MixTen.md)
 - [MixNine ( 07/01/2023 ) - Summer Music ⛱️🌴](./archives-mix/MixNine.md)
 - [MixEight ( 05/23/2023 ) - Drum & Bass 🥁🪘](./archives-mix/MixEight.md)
 - [MixSeven ( 04/22/2023 ) - Electronic Up tempo via Down tempo ☝️ 👇](./archives-mix/MixSeven.md)
@@ -44,6 +51,16 @@ Techno Import 🥏 (odd path sometime)
 - [MixTwo ( 02/19/2023 ) - Old school Hip Hop session ❤️ ](./archives-mix/MixTwo.md)
 - [MixOne ( 02/18/2023 ) - The first and last track are for the nostalgic :wink:](./archives-mix/MixOne.md)
 :::
+
+---
+
+### Special Bigup to my friend
+
+#### Antoine Molmy - Sebastien
+
+<my-audio url="https://live.rouquin.me/archives/Antoine-Molmy-Sebastien.mp3" playerid="audio-player"></my-audio>
+
+[Antoine Molmy Soundcloud](https://soundcloud.com/antoine-molmy)
 
 ---
 
