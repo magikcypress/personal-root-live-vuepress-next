@@ -208,11 +208,13 @@ hr {
     font-size: 1.45rem!important;
   }
 
-  .custom-container.tip {
+  .custom-container.tip,
+  .custom-container.warning {
     padding: 0;
   }
 
-  .custom-container.tip ul li {
+  .custom-container.tip ul li,
+  .custom-container.warning ul li {
     padding: 1px 0 10px 20px;
   }
 
@@ -237,11 +239,13 @@ hr {
     padding: 0 0 0 0px;
   }
 
-  .custom-container.tip {
+  .custom-container.tip,
+  .custom-container.warning {
     padding: 0.1rem 1rem;
   }
 
-  .custom-container.tip ul li {
+  .custom-container.tip ul li,
+  .custom-container.warning ul li {
     padding: 1px 0 10px 20px;
   }
 
